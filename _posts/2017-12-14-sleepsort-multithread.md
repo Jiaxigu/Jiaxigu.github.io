@@ -92,7 +92,7 @@ Let's make some plots to see how accuracy shifts with array length and sleep int
 
 ![chart](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-12-14-arraylength.png){: .center-image}
 
-We can see the accuracy skyrockets as intervals become larger or array size inflates. The results support the logic that `multiprocessing.dummy` simply creates **dummy** threads instead of opening threads directly on CPU. 
+We can see the accuracy skyrockets as intervals become larger or array size decreases. The results support the logic that `multiprocessing.dummy` simply creates **dummy** threads instead of opening **real** CPU threads. 
 
 If we want to sort a lengthy array while giving a trivial sleeping time, those elements at the top of thread assignment queue will wake up from sleeping even before the others getting throught the queue.
 
