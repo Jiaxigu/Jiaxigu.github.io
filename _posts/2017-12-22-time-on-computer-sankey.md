@@ -15,6 +15,8 @@ Inspired by a [reddit post](https://www.reddit.com/r/dataisbeautiful/comments/7j
 
 ![chart](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-12-22-sankey.png){: .center-image}
 
-The data was collected over a 10-day span from December 13th to 22th. I have a deadline this week so I did more programming and less entertainment and gaming.
+The data was collected over a 9-day span from December 14th to 22th, including 7 workdays. I have a deadline this week so I did more programming and less entertainment and gaming.
 
-Hopefully I could keep up with this trend and visualize it again months later.
+I could average less than 4 hours per day writing code. And for each hour I coded, 13 extra minutes were spent to look up references and documentations. It looks like my python skills are not that great yet.
+
+I would do another version in six months and hopefully I could keep up with the trend.

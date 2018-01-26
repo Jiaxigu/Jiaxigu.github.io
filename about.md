@@ -34,9 +34,8 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 ## Experience
 
 - **Data Scientist \| TalkingData, Beijing, China \| 2017 - present**
-	+ Member of TalkingData × 2017 Beijing International Design Week Project
-	+ Platform backend(haskell)
-	+ Database(sqlite) and host server
+	+ Engineer of TalkingData × 2017 Beijing International Design Week Project
+	+ Backend(haskell), database(sqlite) and host server
 	+ Data analysis and visualization(python)
 
 []() 
@@ -50,12 +49,6 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 	+ Implement manually multiple ML models(without scikit-learn)
 	+ Feature engineering, outlier detection and cross validation
 	+ Top 15% Result
-
-[]() 
-
-- **Recommender System for Movies \| EPFL Machine Learning Project \| 2016**
-	+ Implement multiple ML models(scikit-learn)
-	+ Top 25% Result
 	
 []()
 
@@ -70,14 +63,14 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 
 ## Honors
 - **3rd Prize, 6th national students’ contest of energy saving and emission reduction \| 2013**
-	+ Propose and design an energy-saving font
+	+ As team leader
 - **Scholarship for Outstanding Merits \| Zhejiang University \| 2012**
 - **Scholarship for Outstanding Students \| Zhejiang University \| 2012**
 
 ## Expertises
 
 - **Tools** `Python` `Java` `SQL` `C++` `Git` `Linux`
-- **Mathematics** `Machine Learning` `Data Analysis` `Data Mining` `Statistical Models`
+- **Mathematics** `Machine Learning` `Data Analysis` `Data Mining` `Statistics`
 
 ## Competencies
 
