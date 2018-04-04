@@ -35,30 +35,33 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 
 - **Data Scientist \| TalkingData, Beijing, China \| 2017 - present**
 	+ Engineer of TalkingData × 2017 Beijing International Design Week Project
-	+ Backend(haskell), database(sqlite) and host server
-	+ Data analysis and visualization(python)
+	+ Backend, database and host server
+	+ Data analysis, user clustering, visualization
 
 []() 
 
 - **Developer \| Insigma Technology, Hangzhou, China \| 2016**
-	+ Fuzz testing(sulley) on a Linux Unified Kernel OS product
+	+ Fuzz testing on Linux Unified Kernel OS
 
 ## Projects
 
-- **Identifying Higgs Boson \| EPFL Machine Learning Project \| 2016** 
-	+ Implement manually multiple ML models(without scikit-learn)
-	+ Feature engineering, outlier detection and cross validation
-	+ Top 15% Result
+- **Dynamic algorithm to predict students' completion curve and optimize teachers' timing decisions \| EPFL CHILI \| 2018**
+	+ Data analysis, machine learning, algorithm design, time series
+	
+[]()
+
+- **IARPA Geopolitical Forecast Challenge \| EPFL LIA \| 2018**
+	+ Data analysis, NLP with multiple conflicting documents
 	
 []()
 
 - **Topic Modeling of Venetian Ambassador's Report \| EPFL DH101 Project \| 2015 - 2016**
-	+ Stylometry, topic modeling and wordnet visualization(R+mallet)
+	+ Stylometry, topic modeling and words' network visualization
 	
 []()
 
 - **Android Game 'Labyrinth' \| 2016**
-	+ Highscore features and Django server(java+django+RESTful)
+	+ Highscore UI and server with Django and RESTful
 
 
 ## Honors
@@ -69,13 +72,13 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 
 ## Expertises
 
-- **Tools** `Python` `Java` `SQL` `C++` `Git` `Linux`
-- **Mathematics** `Machine Learning` `Data Analysis` `Data Mining` `Statistics`
+- **Tools** `Python` `Java` `C++` `JavaScript` `SQL``Git` `Linux`
+- **Fundamentals** `Machine Learning` `Data Analysis` `Data Mining` `NLP` `Statistics`
 
 ## Competencies
 
 - **Languages** `Chinese` `English` `German` `French`
-- **Communication** `Business Writing` `Project Management` `Agile`
+- **Communication** `Agile` `Business Writing` `Project Management` 
 
 
 ## Contact
