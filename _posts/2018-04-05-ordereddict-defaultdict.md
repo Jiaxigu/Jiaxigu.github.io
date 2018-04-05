@@ -50,7 +50,7 @@ items = (('apple', 2), ('pear', 1), ('orange', 3))
 # set default factory method
 dd = defaultdict(int)
 for k, v in items:
-	dd[k] = v
+    dd[k] = v
 
 # query a non-existant key
 dd['mango']
@@ -65,7 +65,7 @@ Store key-value pairs in lists:
 items = [('GER', 'Bayern'), ('ENG', 'Man City'), ('GER', 'BVB'), ('ESP', 'Barcelona'), ('ENG', 'Liverpool')]
 d = defaultdict(list)
 for k, v in items:
-	d[k].append(v)
+    d[k].append(v)
 d.items()
 Out[]: dict_items([('GER', ['Bayern', 'BVB']), ('ESP', ['Barcelona']), ('ENG', ['Man City', 'Liverpool'])])
 {% endhighlight %}
@@ -76,7 +76,7 @@ Counting:
 item = 'abgegangen'
 d = defaultdict(int)
 for k in item:
-   	d[k] += 1
+    d[k] += 1
 d.items()
 Out[]: dict_items([('a', 2), ('e', 2), ('b', 1), ('n', 2), ('g', 3)])
 {% endhighlight %}
