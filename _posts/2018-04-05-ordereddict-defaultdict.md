@@ -13,7 +13,6 @@ tags: Python
 
 {% highlight python %}
 from collections import OrderedDict
-	
 items = (('apple', 2), ('pear', 1), ('orange', 3))
 od = OrderedDict(items)
 d = dict(items)
@@ -51,8 +50,8 @@ items = (('apple', 2), ('pear', 1), ('orange', 3))
 # set default factory method
 dd = defaultdict(int)
 for k, v in items:
-   	dd[k] = v
-   	
+	dd[k] = v
+
 # query a non-existant key
 dd['mango']
 Out[]: 0
@@ -66,7 +65,7 @@ Store key-value pairs in lists:
 items = [('GER', 'Bayern'), ('ENG', 'Man City'), ('GER', 'BVB'), ('ESP', 'Barcelona'), ('ENG', 'Liverpool')]
 d = defaultdict(list)
 for k, v in items:
-d[k].append(v)
+	d[k].append(v)
 d.items()
 Out[]: dict_items([('GER', ['Bayern', 'BVB']), ('ESP', ['Barcelona']), ('ENG', ['Man City', 'Liverpool'])])
 {% endhighlight %}
