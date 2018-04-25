@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS notes: ternary, const function and more
+title: JS notes - ternary, const function
 tags: Javascript
 ---
 
@@ -22,9 +22,9 @@ It replaces:
 var price = 25;
 var isExpensive;
 if (price > 20) {
-	isExpensive = true;	
+  isExpensive = true;	
 } else {
-	isExpensive = false;
+  isExpensive = false;
 }
 console.log(isExpensive)
 {% endhighlight %}
@@ -35,16 +35,36 @@ For multiple ternary operator, the coding format looks like:
 var price = 25;
 var origin = 'sweden';
 var car = 
-	price > 50 
-		? 'porsche'
-		: price < 10
-			? 'seat'
-			: origin === 'sweden'
-				? 'volvo'
-				: 'bmw'
+  price > 50 
+	? 'porsche'
+	: price < 10
+	  ? 'seat'
+	  : origin === 'sweden'
+	    ? 'volvo'
+		: 'bmw'
 console.log(car) // >>> 'volvo'
 {% endhighlight %}
 
-## Reference
+## Const function
+
+This is a new feature in ES5 and sexy af:
+
+{% highlight javascript %}
+const helloWorld = () => 'Hello World!';
+{% endhighlight %}
+
+The const function ensures **simplicity** and **immutability**. This line of code replaces:
+
+{% highlight javascript %}
+function helloWorld() {
+  return 'Hello World!';
+}
+{% endhighlight %}
+
+There are also good reasons to keep using the old way to define functions. Temporal dead zone(TDZ) could be an issue, readability as well.
+
+
 
 - [Ternary conditional operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [On const function](https://stackoverflow.com/questions/33040703/proper-use-of-const-for-defining-functions-in-javascript)
+- [Pros and cons](https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd)
