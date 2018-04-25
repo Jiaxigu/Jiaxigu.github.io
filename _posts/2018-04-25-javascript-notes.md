@@ -36,12 +36,12 @@ var price = 25;
 var origin = 'sweden';
 var car = 
   price > 50 
-	? 'porsche'
-	: price < 10
-	  ? 'seat'
-	  : origin === 'sweden'
-	    ? 'volvo'
-		: 'bmw'
+    ? 'porsche'
+    : price < 10
+      ? 'seat'
+      : origin === 'sweden'
+        ? 'volvo'
+        : 'bmw'
 console.log(car) // >>> 'volvo'
 {% endhighlight %}
 
