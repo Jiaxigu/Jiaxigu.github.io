@@ -7,23 +7,27 @@ standalone: true
 
 ## Welcome!
 
-It's a blog about data analysis and visualization, mainly with python.
+This blog is about data analysis and visualization, mainly with python.
 
-Data science and sports could be a sweet mix. If you enjoy both, we would have a nice chat. The statement stands at a confidence level of 95% - The other 5% being you are a supporter of Real Madrid.
+Data science and sports can be a sweet mix. If you enjoy both, we would have a nice chat. The statement stands at a confidence level of 95% - The other 5% being you are a supporter of Real Madrid.
 
 ## Me
 
-I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausanne**, Switzerland. 
+I'm **Jiaxi Gu**, a data scientist, sports fanatic, wanna-be polyglot, zealot of algorithmic music.
+
+I study **Computational Science** at **École polytechnique fédérale de Lausanne**, Switzerland. 
 
 ## Looking for
 
-**Full-time position** as **data analyst/scientist** starting from **2018 summer**
+I will join **Alibaba Cloud** in autumn 2018.
+
+Now I look for **data analysis side projects** involving **sports** or **linguistics**, just for fun.
+
 
 ## Education
 
 -  **École polytechnique fédérale de Lausanne \| 2015 - present**
 	+ Master in Computational Science and Engineering
-	+ Core courses: Pattern classification and Machine Learning, Applied Data Analysis, Software Engineering, Algorithm, Advanced Algorithm, Nature Language Processing
 
 []() <!--as blank line-->
 
@@ -34,9 +38,8 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 ## Experience
 
 - **Data Scientist \| TalkingData, Beijing, China \| 2017 - present**
-	+ Engineer of TalkingData × 2017 Beijing International Design Week Project
-	+ Backend, database and host server
-	+ Data analysis, user clustering, visualization
+	+ Crowdsourced urban design project
+	+ Post-event data analysis
 
 []() 
 
@@ -45,40 +48,36 @@ I'm **Jiaxi Gu**, a master student at **École polytechnique fédérale de Lausa
 
 ## Projects
 
-- **Dynamic algorithm to predict students' completion curve and optimize teachers' timing decisions \| EPFL CHILI \| 2018**
-	+ Data analysis, machine learning, algorithm design, time series
+- **Dynamically Predict Students' Progress and Completion Time in Class \| EPFL CHILI \| 2018**
+	+ On-the-fly predictive algorithms for pedagogical scenarios
 	
 []()
 
 - **IARPA Geopolitical Forecast Challenge \| EPFL LIA \| 2018**
-	+ Data analysis, NLP with multiple conflicting documents
+	+ Information retrieval from multiple conflicting documents
 	
 []()
 
 - **Topic Modeling of Venetian Ambassador's Report \| EPFL DH101 Project \| 2015 - 2016**
-	+ Stylometry, topic modeling and words' network visualization
+	+ Topic modeling and words' network visualization from aged documents
 	
 []()
 
 - **Android Game 'Labyrinth' \| 2016**
-	+ Highscore UI and server with Django and RESTful
+	+ Highscore UI and server implementation with Django, RESTful
 
 
 ## Honors
-- **3rd Prize, 6th national students’ contest of energy saving and emission reduction \| 2013**
-	+ As team leader
+
 - **Scholarship for Outstanding Merits \| Zhejiang University \| 2012**
 - **Scholarship for Outstanding Students \| Zhejiang University \| 2012**
 
-## Expertises
 
-- **Tools** `Python` `Java` `C++` `JavaScript` `SQL``Git` `Linux`
-- **Fundamentals** `Machine Learning` `Data Analysis` `Data Mining` `NLP` `Statistics`
+## Fields of interest
 
-## Competencies
-
-- **Languages** `Chinese` `English` `German` `French`
-- **Communication** `Agile` `Business Writing` `Project Management` 
+- **Programming** `Python` `JavaScript`
+- **Data** `Machine Learning` `Data Mining` `NLP`
+- **Applications** `Sports Analytics` `Algorithmic Music`
 
 
 ## Contact

@@ -26,7 +26,7 @@ if (price > 20) {
 } else {
   isExpensive = false;
 }
-console.log(isExpensive)
+console.log(isExpensive) // >>> true
 {% endhighlight %}
 
 For multiple ternary operator, the coding format looks like:
@@ -63,7 +63,7 @@ function helloWorld() {
 
 There are also good reasons to keep using the old way to define functions. Temporal dead zone(TDZ) could be an issue, readability as well.
 
-
+## References
 
 - [Ternary conditional operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 - [On const function](https://stackoverflow.com/questions/33040703/proper-use-of-const-for-defining-functions-in-javascript)
