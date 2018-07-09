@@ -17,17 +17,29 @@ I'm **Jiaxi Gu**, a data scientist, sports fanatic, wanna-be polyglot, zealot of
 
 I study **Computational Science** at **École polytechnique fédérale de Lausanne**, Switzerland. 
 
-## Looking for
 
-I will join **Alibaba Cloud** in autumn 2018.
+## Career
 
-Now I look for **data analysis side projects** involving **sports** or **linguistics**, just for fun.
+- **Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
+	+ Start in October 
+
+[]()
+
+- **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
+	+ Crowdsourced urban design project
+	+ Post-event data analysis
+
+[]() 
+
+- **Developer Intern \| Insigma Technology, Hangzhou, China \| 2016**
+	+ Fuzz testing on Linux Unified Kernel OS
 
 
 ## Education
 
--  **École polytechnique fédérale de Lausanne \| 2015 - present**
+-  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
 	+ Master in Computational Science and Engineering
+	+ Thesis: Dynamically Predict Students' Progress and Completion Time in Class, CHILI Lab
 
 []() <!--as blank line-->
 
@@ -35,36 +47,8 @@ Now I look for **data analysis side projects** involving **sports** or **linguis
 	+ Bachelor in Energy Engineering
 
 
-## Experience
-
-- **Data Scientist \| TalkingData, Beijing, China \| 2017 - present**
-	+ Crowdsourced urban design project
-	+ Post-event data analysis
-
-[]() 
-
-- **Developer \| Insigma Technology, Hangzhou, China \| 2016**
-	+ Fuzz testing on Linux Unified Kernel OS
-
-## Projects
-
-- **Dynamically Predict Students' Progress and Completion Time in Class \| EPFL CHILI \| 2018**
-	+ On-the-fly predictive algorithms for pedagogical scenarios
-	
-[]()
-
-- **IARPA Geopolitical Forecast Challenge \| EPFL LIA \| 2018**
-	+ Information retrieval from multiple conflicting documents
-	
-[]()
-
-- **Topic Modeling of Venetian Ambassador's Report \| EPFL DH101 Project \| 2015 - 2016**
-	+ Topic modeling and words' network visualization from aged documents
-	
-[]()
-
-- **Android Game 'Labyrinth' \| 2016**
-	+ Highscore UI and server implementation with Django, RESTful
+## Publications
+- Lu, H., **Gu, J.**, Li, J., Lu, Y., Mueller, J., Wei, W., & Schmitt, G. (2018). Evaluating Urban Design Ideas from Citizens from crowdsourcing and participatory design. In 6th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018).
 
 
 ## Honors
