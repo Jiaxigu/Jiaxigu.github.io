@@ -15,31 +15,28 @@ Data science and sports can be a sweet mix. If you enjoy both, we would have a n
 
 I'm **Jiaxi Gu**, a data scientist, sports fanatic, wanna-be polyglot, zealot of algorithmic music.
 
-I study **Computational Science** at **École polytechnique fédérale de Lausanne**, Switzerland. 
+I'm currently working for **Alibaba Cloud**.
 
 
 ## Career
 
 - **Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-	+ Start in October 
+	+ Anomaly Detection
 
 []()
 
 - **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
-	+ Crowdsourced urban design project
-	+ Post-event data analysis
+	+ Crowdsourced urban design project & post-event data analysis
 
 []() 
 
 - **Developer Intern \| Insigma Technology, Hangzhou, China \| 2016**
-	+ Fuzz testing on Linux Unified Kernel OS
 
 
 ## Education
 
 -  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
 	+ Master in Computational Science and Engineering
-	+ Thesis: Dynamically Predict Students' Progress and Completion Time in Class, CHILI Lab
 
 []() <!--as blank line-->
 
@@ -49,12 +46,6 @@ I study **Computational Science** at **École polytechnique fédérale de Lausan
 
 ## Publications
 - Lu, H., **Gu, J.**, Li, J., Lu, Y., Mueller, J., Wei, W., & Schmitt, G. (2018). Evaluating Urban Design Ideas from Citizens from crowdsourcing and participatory design. In 6th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018).
-
-
-## Honors
-
-- **Scholarship for Outstanding Merits \| Zhejiang University \| 2012**
-- **Scholarship for Outstanding Students \| Zhejiang University \| 2012**
 
 
 ## Fields of interest
