@@ -44,14 +44,10 @@ I'm currently working for **Alibaba Cloud**.
 	+ Bachelor in Energy Engineering
 
 
-## Publications
-- Lu, H., **Gu, J.**, Li, J., Lu, Y., Mueller, J., Wei, W., & Schmitt, G. (2018). Evaluating Urban Design Ideas from Citizens from crowdsourcing and participatory design. In 6th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018).
-
-
 ## Fields of interest
 
-- **Programming** `Python` `JavaScript`
-- **Data** `Machine Learning` `Data Mining` `NLP`
+- **Programming** `Python` `Groovy` `JavaScript` 
+- **Data** `Anomaly Detection` `Knowledge Vault and Data Mining` `Visualization Aesthetics`
 - **Applications** `Sports Analytics` `Algorithmic Music`
 
 
