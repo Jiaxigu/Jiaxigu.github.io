@@ -7,13 +7,11 @@ standalone: true
 
 ## Welcome!
 
-This blog is about data analysis and visualization, mainly with python.
+This is my personal blog. In most cases, the blogs are about data science with python.
 
-Data science and sports can be a sweet mix. If you enjoy both, we would have a nice chat. The statement stands at a confidence level of 95% - The other 5% being you are a supporter of Real Madrid.
+Data science greatly advances cross-disciplinary studies in fruitful ways. Sometimes I would have topics from sports, gaming, linguistics and music involved.
 
 ## Me
-
-I'm **Jiaxi Gu**, a data scientist, sports fanatic, wanna-be polyglot, zealot of algorithmic music.
 
 I'm currently working for **Alibaba Cloud**.
 
@@ -27,10 +25,6 @@ I'm currently working for **Alibaba Cloud**.
 
 - **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
 	+ Crowdsourced urban design project & post-event data analysis
-
-[]() 
-
-- **Developer Intern \| Insigma Technology, Hangzhou, China \| 2016**
 
 
 ## Education
@@ -55,5 +49,4 @@ I'm currently working for **Alibaba Cloud**.
 
 - [GitHub](https://github.com/Jiaxigu)
 - [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
-- [Kaggle](https://www.kaggle.com/jiaxigu)
 - [Email](mailto:mcjxgu@163.com)
