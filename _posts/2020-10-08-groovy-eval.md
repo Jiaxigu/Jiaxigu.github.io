@@ -13,6 +13,17 @@ As a python fanatic, `eval()` and `literal_eval()` walked straight into my codin
 	def exp = "def a = 1; a + 2"
 	println(Eval.me(exp)) // 3
 
+When arguments are provided, it's possible to customize argument namespace and value:
+
+	def values = ['a': 1, 'b': 2]
+	def exp1 = 'd.a + d.b'
+	def exp2 = '"$d.a + $d.b"'
+	
+	println(Eval.me("d", values, exp1)) // 3
+	println(Eval.me("d", values, exp2)) // 1 + 2
+
+On a side note, the dollar sign `$` is a placeholder in string for variables.
+
 ## `Eval.x()`
 
 `Eval.x()`, `Eval.xy()` and `Eval.xyz()` require fixed argument namespace in the expression and allow 1, 2 and 3 values respectively to be passed to the arguments.
