@@ -7,9 +7,9 @@ standalone: true
 
 ## Welcome!
 
-This is my personal blog. In most cases, the blogs are about data science with python.
+This is my personal blog. Posts are, in most cases, about data science with python.
 
-Data science greatly advances cross-disciplinary studies in fruitful ways. Sometimes I would have topics from sports, gaming, linguistics and music involved.
+Data science advances cross-disciplinary studies in fruitful ways. Some of my favorite topics are sports, gaming, linguistics and music.
 
 ## Me
 
@@ -18,13 +18,14 @@ I'm currently working for **Alibaba Cloud**.
 
 ## Career
 
-- **Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-	+ Anomaly Detection
+- **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
+	+ Machine Learning on Time Series Clustering, Anomaly Detection, Ensemble Learning
+	+ Backend Dev on AIOps: Stream Data Processor, Automated Machine Learning Pipeline
 
 []()
 
 - **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
-	+ Crowdsourced urban design project & post-event data analysis
+	+ Backend Design and Dev, User-generated Data Analysis
 
 
 ## Education
@@ -38,11 +39,16 @@ I'm currently working for **Alibaba Cloud**.
 	+ Bachelor in Energy Engineering
 
 
-## Fields of interest
+## Stacks
 
-- **Programming** `Python` `Groovy` `JavaScript` 
-- **Data** `Anomaly Detection` `Knowledge Vault and Data Mining` `Visualization Aesthetics`
-- **Applications** `Sports Analytics` `Algorithmic Music`
+- **Programming** `Python` `Java` `Golang` `Groovy` `Lua`
+- **Languages** `Chinese` `English` `German` `French`
+- **Machine Learning** `Anomaly Detection` `Knowledge Vault` `Ensemble Learning`
+
+## Addicts
+- Music: House, Pop-rock, K-pop, Classical
+- Literature and Film: Albert Camus, Christopher Nolan
+- Sports: Football, Road Cycling, Ski
 
 
 ## Contact
