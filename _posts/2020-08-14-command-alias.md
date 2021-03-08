@@ -12,9 +12,9 @@ But I don't actually want to type this sh!t EVERY time I want to achieve that go
 
 First, open the bash profile:
 
-	vi .bash_prifle
+	vi .bash_profile
 
-Second, add alias and save the profile. The general grammar writes:
+Second, add alias and save the profile. The command-line writes:
 
 	alias {shortcut}="{original command}"
 
@@ -22,8 +22,8 @@ To assign the aforementioned command to, let's say, `chist`, I can do:
 
 	alias chist="history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl |  head -n10"
 
-And now I can type `chist` instead of that whole spaghetti magic. Be sure to avoid any collisions when assigning the aliases.
+And now I can type `chist` instead of that whole spaghetti magic. Be sure to avoid any conflicts when assigning the aliases.
 
-## Refenrences
+## References
 
 - [https://developer.aliyun.com/article/620474]()
