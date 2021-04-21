@@ -66,7 +66,7 @@ Luckily, `GroovyShell` provides with other methods which allow the parsing pipel
 
 This allows different value to be passed to the same pipeline, which enables a minimal configurable pipeline in parallel, stream computing. Below is the time efficiency of script parsing with and without caching.
 
-![](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2020-10-08-evaluate.png)
+![](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2020-10-08-evaluate.png){: .center-image}
 
 ## References
 
