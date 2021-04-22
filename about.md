@@ -7,9 +7,8 @@ standalone: true
 
 ## Welcome!
 
-This is my personal blog. Posts are, in most cases, about data science with python.
+This is my personal blog. Posts are, in most cases, about data science. Sports, linguistics, investment and life progresses are the other things I would like to discuss here.
 
-Data science advances cross-disciplinary studies in fruitful ways. Some of my favorite topics are sports, gaming, linguistics and music.
 
 ## Me
 
@@ -19,24 +18,23 @@ I'm currently working for **Alibaba Cloud**.
 ## Career
 
 - **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-	+ Machine Learning on Time Series Clustering, Anomaly Detection, Ensemble Learning
-	+ Backend Dev on AIOps: Stream Data Processor, Automated Machine Learning Pipeline
+	+ ML research on time series clustering, anomaly detection, ensemble learning
+	+ Backend Development of AIOps system, data stream processor, automated ML pipeline
 
 []()
 
 - **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
-	+ Backend Design and Dev, User-generated Data Analysis
 
 
 ## Education
 
 -  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
-	+ Master in Computational Science and Engineering
+	+ Master degree in Computational Science and Engineering
 
 []() <!--as blank line-->
 
 - **Zhejiang University \| 2011 - 2015**
-	+ Bachelor in Energy Engineering
+	+ Bachelor degree in Energy Engineering
 
 
 ## Stacks
@@ -45,14 +43,17 @@ I'm currently working for **Alibaba Cloud**.
 - **Languages** `Chinese` `English` `German` `French`
 - **Machine Learning** `Anomaly Detection` `Knowledge Vault` `Ensemble Learning`
 
+
 ## Addicts
-- Music: House, Pop-rock, K-pop, Classical
+- Music: House, Britpop, Classical
 - Literature and Film: Albert Camus, Christopher Nolan
-- Sports: Football, Road Cycling, Ski
+- Sports: Football, Road Cycling
 
 
 ## Contact
 
 - [GitHub](https://github.com/Jiaxigu)
 - [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
+- [Douban](https://www.douban.com/people/macnir/)
 - [Email](mailto:mcjxgu@163.com)
+

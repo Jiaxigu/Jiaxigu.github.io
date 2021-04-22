@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Bodel
+title:          Pyrenees Alpaca
 paginate:       5
 baseurl:        ""
 url:            "https://jiaxigu.github.io"
