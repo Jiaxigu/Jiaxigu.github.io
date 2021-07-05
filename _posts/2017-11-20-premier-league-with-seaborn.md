@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Premier League Power Rankings
-tags: Special Visualization
+tags: Visualization
 ---
 
 

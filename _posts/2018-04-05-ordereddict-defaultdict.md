@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OrderedDict and DefaultDict
-tags: Python
+tags: Programming
 ---
 ## Play with dicts in python
 

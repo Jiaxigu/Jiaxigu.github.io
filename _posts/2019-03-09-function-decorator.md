@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Decorators
-tags: Python
+tags: Programming
 ---
 
 I was looking into the [`kdtree`](https://github.com/stefankoegl/kdtree/blob/master/kdtree.py#L187) repository this week and came up with the `require_axis` decorator function. I have used some of the built-in decorators in python, but function decorators seem pretty powerful at the first glance so I decided to dig it a bit.

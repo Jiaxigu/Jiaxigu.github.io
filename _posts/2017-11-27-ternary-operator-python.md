@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ternary Conditional Operator
-tags: Python
+tags: Programming
 ---
 
 So today I came across a situation where I need to use **ternary conditional operator** in list comprehensions. My friend worked it out for me and I feel like it's better to note it down.

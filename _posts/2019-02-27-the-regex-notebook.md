@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Regex Notebook
-tags: Python
+tags: Programming
 ---
 
 Regex has been useful in my work but it seems I can't always figure things out on site without extensively going through the likes of _StackOverflow_. Recently I could pick up some time to read the official guide for python regex and it's proved to be helpful.

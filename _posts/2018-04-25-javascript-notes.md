@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JS notes - ternary, const function
-tags: Javascript
+tags: Programming
 ---
 
 Recently I'm attacking the world of JavaScript - a treasure for the front-end devs but a pain for the data scientists. Here are some notes from my experience working with JavaScript...

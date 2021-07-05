@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Quickselect Algorithm
-tags: Python
+tags: Programming
 ---
 
 The last three months have been really hasty but I'm fortunate enough to make past the first three months at Alibaba Cloud. Before the lunar year 2018 concludes I would like to discuss a bit about a powerful algorithm recently used in my work - the `Quickselect` algorithm.

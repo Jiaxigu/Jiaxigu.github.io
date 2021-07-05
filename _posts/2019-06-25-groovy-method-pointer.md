@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Groovy Method Pointer
-tags: Groovy
+tags: Programming
 ---
 
 My recent work involves a lot of scripting and SWEng with Groovy. Groovy lives under the solemn structure of Java while providing syntactic sugars for those lazy coders. For a python guy like me, Groovy is full of goodness so far.

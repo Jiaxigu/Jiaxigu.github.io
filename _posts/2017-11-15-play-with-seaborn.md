@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Play with Seaborn
-tags: Visualization
+tags: Programming
 ---
 
 [Seaborn](http://seaborn.pydata.org/index.html) is a Python visualization library based on matplotlib. It provides with themes, color palettes, and high-level built-in plot patterns to prettify your statistical graphics. But it's not omnipotent as well.
