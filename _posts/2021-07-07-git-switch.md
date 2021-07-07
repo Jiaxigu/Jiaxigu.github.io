@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `git checkout` is Checkmated
+title: git checkout checkmated
 tags: Dev
 ---
 
