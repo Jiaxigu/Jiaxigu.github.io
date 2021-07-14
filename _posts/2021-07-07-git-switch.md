@@ -37,13 +37,13 @@ And how do we use the `git switch` command? The most used actions are definitely
 
 Another action simplified by the addition of `git switch` is creating a local branch that tracks a remote branch. Before `git switch`, one needs to go through the mess of
 
-`git checkout --track origin/remote_branch`
+`git checkout --track origin/remote_branch`,
 
-,or even
+or even
 
 `git checkout --track -b remote_branch origin/remote_branch`
 
-in earlier git versions. After the update, `git switch remote_branch` will do the job simple and elegant (all commands above creates a local branch named `remote_branch` which tracks the remote branch named `remote_branch`.
+in earlier git versions. After the update, `git switch remote_branch` will do the job simple and elegant (all commands above creates a local branch named `remote_branch` which tracks the remote branch named `remote_branch`).
 
 ## References
 
