@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: index
 title: About
-sidebar_link: true
 ---
 
 <p class="message">

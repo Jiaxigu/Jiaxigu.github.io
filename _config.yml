@@ -31,5 +31,5 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  false
+sidebar_home_link:  true
 sidebar_blog_link:  '/blogs'
