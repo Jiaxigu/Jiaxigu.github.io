@@ -5,9 +5,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Yuchen Jin
+tagline:          ''
+description:      'Research Assistant, Harvard Graduate School of Education'
 url:              https://jiaxigu.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -17,8 +17,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Yuchen Jin'
+  url:            https://regenchen.github.io
 
 paginate:         5
 paginate_path:    '/blogs/:num'
