@@ -4,9 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-## Welcome!
-
-This is my secret little cabin to discuss everything about data science. Occasionally, I will do spin-off about sports, linguistics and investing.
+Welcome to my secret little cabin.
 
 
 ## Me
@@ -36,23 +34,10 @@ I'm currently working for **Alibaba Cloud**.
 	+ BSc in Energy Engineering
 
 
-## Stacks
-
-- **Programming** `Python` `Java` `Golang` `Groovy` `Lua`
-- **Languages** `Chinese` `English` `German` `French`
-- **Machine Learning** `Anomaly Detection` `Knowledge Vault` `Ensemble Learning`
-
-
-## Addicts
-- Music: House, Britpop, Classical
-- Literature and Film: Albert Camus, Christopher Nolan
-- Sports: Football, Road Cycling
-
-
 ## Contact
+
+You can find me via [Email](mailto:mcjxgu@163.com), or the links provided in the sidebar.
 
 - [GitHub](https://github.com/Jiaxigu)
 - [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
 - [Douban](https://www.douban.com/people/macnir/)
-- [Email](mailto:mcjxgu@163.com)
-
