@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: page
 title: About
-permalink: /about/
-standalone: true
+sidebar_link: true
 ---
 
 ## Welcome!
 
-This is my personal blog. Posts are, in most cases, about data science. Sports, linguistics, investment and life progresses are the other things I would like to discuss here.
+This is my personal blog. Posts are, in most cases, about data science. Sports, linguistics and investing are the other things I would like to discuss here.
 
 
 ## Me
