@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Welcome!
 
-This is my personal blog. Posts are, in most cases, about data science. Sports, linguistics and investing are the other things I would like to discuss here.
+This is my secret little cabin to discuss everything about data science. Occasionally, I will do spin-off about sports, linguistics and investing.
 
 
 ## Me
@@ -17,8 +17,8 @@ I'm currently working for **Alibaba Cloud**.
 ## Career
 
 - **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-	+ ML research on time series clustering, anomaly detection, ensemble learning
-	+ Backend Development of AIOps system, data stream processor, automated ML pipeline
+	+ ML research on anomaly detection, ensemble learning
+	+ Backend Development of AIOps platform
 
 []()
 
@@ -28,12 +28,12 @@ I'm currently working for **Alibaba Cloud**.
 ## Education
 
 -  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
-	+ Master degree in Computational Science and Engineering
+	+ MS in Computational Science and Engineering
 
 []() <!--as blank line-->
 
 - **Zhejiang University \| 2011 - 2015**
-	+ Bachelor degree in Energy Engineering
+	+ BSc in Energy Engineering
 
 
 ## Stacks
