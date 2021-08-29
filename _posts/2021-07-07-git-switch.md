@@ -1,14 +1,10 @@
 ---
 layout: post
 title: git checkout is checkmated
-excerpt_separator: "<!--more-->"
-tags:
-    - Dev
+tags: Dev
 ---
 
 Since [Git 2.23](https://www.infoq.com/news/2019/08/git-2-23-switch-restore/), `git switch` and `git restore` have been added to the version control arsenal to switch between branches and restore changes, respectively. This movement aims to put the almighty command `git checkout` on the shelf.
-
-<!--more-->
 
 `git checkout` is probably one of the first commands that one should comprehend when getting started with the version control system. However, `git checkout` has a big design flaw within: it does NOT do exactly one thing.
 

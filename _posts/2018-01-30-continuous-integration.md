@@ -3,7 +3,6 @@ layout: post
 title: CI with Travis and Coveralls
 tags: Dev
 ---
-## Continuous integration
 
 Continuous integration(CI) is the practice to efficiently merge developer working copies with a shared mainline. Automated CI is a must in the industry nowadays, and it's also free and ready-to-go without any sophisticated configurations.
 

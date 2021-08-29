@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	Topic Modeling of Venetian Ambassador Reports
-tags: NLP
+tags: DS
 ---
 
 In this work we conducted stylometry analysis and topic modeling on 22 reports from [Venetian Ambassador in England](http://www.british-history.ac.uk/cal-state-papers/venice/vol1/cxxii-cxxix). The 22 reports explored a time range from 1489 to 1763, so language style and topics could vary during the timespan.
