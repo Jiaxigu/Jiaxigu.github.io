@@ -36,8 +36,4 @@ I'm currently working for **Alibaba Cloud**.
 
 ## Contact
 
-You can find me via [Email](mailto:mcjxgu@163.com), or the links provided in the sidebar.
-
-- [GitHub](https://github.com/Jiaxigu)
-- [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
-- [Douban](https://www.douban.com/people/macnir/)
+You can reach me via [Email](mailto:mcjxgu@163.com) or the links provided in the sidebar.
