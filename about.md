@@ -14,23 +14,23 @@ I'm currently working for **Alibaba Cloud**.
 
 ## Career
 
-- **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
+- **Senior Machine Learning Engineer @ Alibaba Cloud \| Hangzhou, China \| 2018 -**
 	+ ML research on anomaly detection, ensemble learning
 	+ Backend Development of AIOps platform
 
 []()
 
-- **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
+- **Data Science Intern @ TalkingData \| Beijing, China \| 2017 - 2018**
 
 
 ## Education
 
--  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
+-  **École polytechnique fédérale de Lausanne \| Lausanne, Switzerland \| 2015 - 2018**
 	+ MS in Computational Science and Engineering
 
 []() <!--as blank line-->
 
-- **Zhejiang University \| 2011 - 2015**
+- **Zhejiang University \| Hangzhou, China \| 2011 - 2015**
 	+ BSc in Energy Engineering
 
 
