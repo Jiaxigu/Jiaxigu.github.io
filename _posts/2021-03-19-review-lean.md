@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 笔记《精益创业》
-hide: true
+hidden: true
 tags: review
 categories: Review
 ---

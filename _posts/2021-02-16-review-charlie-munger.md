@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 笔记《穷查理宝典》
-hide: true
+hidden: true
 tags: review
 categories: Review
 ---
