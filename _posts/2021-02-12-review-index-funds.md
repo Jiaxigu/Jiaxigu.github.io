@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 笔记-指数基金投资指南
+hide: true
 tags: review
 categories: Review
 ---
