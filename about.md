@@ -6,13 +6,9 @@ sidebar_link: true
 
 Welcome to my secret little cabin.
 
+I'm currently working for Alibaba Cloud and my team is hiring. You can reach me via [Email](mailto:mcjxgu@163.com) or the links provided in the sidebar. Job and business inquiries are welcome.
 
-## Me
-
-I'm currently working for **Alibaba Cloud**.
-
-
-## Career
+### Career
 
 - **Senior Machine Learning Engineer @ Alibaba Cloud \| Hangzhou, China \| 2018 -**
 	+ ML research on anomaly detection, ensemble learning
@@ -22,8 +18,7 @@ I'm currently working for **Alibaba Cloud**.
 
 - **Data Science Intern @ TalkingData \| Beijing, China \| 2017 - 2018**
 
-
-## Education
+### Education
 
 -  **École polytechnique fédérale de Lausanne \| Lausanne, Switzerland \| 2015 - 2018**
 	+ MS in Computational Science and Engineering
@@ -32,8 +27,3 @@ I'm currently working for **Alibaba Cloud**.
 
 - **Zhejiang University \| Hangzhou, China \| 2011 - 2015**
 	+ BSc in Energy Engineering
-
-
-## Contact
-
-You can reach me via [Email](mailto:mcjxgu@163.com) or the links provided in the sidebar.
