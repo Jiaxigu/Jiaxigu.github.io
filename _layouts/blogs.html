@@ -9,7 +9,7 @@ layout: default
 
   {% for post in paginator.posts %}
     {% if post.hide %}
-    {% else}
+    {% else %}
       <article class="post-body">
         <h2 class="post-title">
           <a href="{{ post.url | relative_url }}">
