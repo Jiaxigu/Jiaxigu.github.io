@@ -4,6 +4,8 @@
         href="{{ "/" | relative_url }}">Home</a>
   {% endif %}
 
+  {% include category-links.html %}
+
   {% include page-links.html %}
 
   {% if site.sidebar_blog_link %}
@@ -15,8 +17,6 @@
     The code below dynamically generates a sidebar nav of pages with
     `sidebar_link: true` in the front-matter. See readme for usage.
   {% endcomment %}
-
-  {% include category-links.html %}
 
   {% include custom-nav-links.html %}
 </nav>
