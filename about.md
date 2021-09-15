@@ -10,26 +10,16 @@ I'm currently working for Alibaba Cloud and my team is hiring. You can reach me 
 
 ### Career
 
-**Alibaba Cloud \| 2018 -**
-
+**Alibaba Cloud \| 2018 -**<br>
 Senior Machine Learning Engineer
-	+ ML research on anomaly detection, ensemble learning
-	+ Backend Development of AIOps platform
 
-[]()
-
-**TalkingData \| 2017 - 2018**
-
+**TalkingData \| 2017 - 2018**<br>
 Data Science Intern
 
 ### Education
 
-**École polytechnique fédérale de Lausanne \| 2015 - 2018**
-
+**École polytechnique fédérale de Lausanne \| 2015 - 2018**<br>
 MS in Computational Science and Engineering
 
-[]() <!--as blank line-->
-
-**Zhejiang University \| 2011 - 2015**
-
+**Zhejiang University \| 2011 - 2015**<br>
 B.Sc in Energy Engineering
