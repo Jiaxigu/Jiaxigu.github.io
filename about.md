@@ -11,7 +11,8 @@ I'm currently working for Alibaba Cloud and my team is hiring. You can reach me 
 ### Career
 
 **Alibaba Cloud \| 2018 -**<br>
-Senior Machine Learning Engineer
+Senior Machine Learning Engineer<br>
+specialized in anomaly detection, AIOps platform
 
 **TalkingData \| 2017 - 2018**<br>
 Data Science Intern
@@ -22,4 +23,4 @@ Data Science Intern
 MS in Computational Science and Engineering
 
 **Zhejiang University \| 2011 - 2015**<br>
-B.Sc in Energy Engineering
+BS in Energy Engineering
