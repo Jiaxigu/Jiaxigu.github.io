@@ -54,6 +54,7 @@ categories: Review
 #### 网上的一段定义
 
 > Agile: plans often fail. Let's test with users and make sure it works.
+> 
 > Lean: we don't build a great product that no one needs. We test it on the market and make sure it sells.
 
 #### 相同点
