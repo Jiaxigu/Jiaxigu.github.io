@@ -1,58 +1,49 @@
 ---
 layout: post
-title: Evaluating PL Strikers with xG Outperformance
+title: The best and worst finisher, visualized
 tags: DS
 ---
 
-In recent years, the term _Expected Goals (xG)_ has risen to prominence in football analytics. Being a low scoring game, the goals scored in a football game can be heavily influenced by luck, form or any other random factors, making it less valuable for data analysis. xG, on the other hand, indicating what will happen on an average day, provides with a rather clear insight.
-
-The xG gives an expectation about if a shot would convert to a goal. For example, if a shot has an xG of 0.13, it means the shot has a 13% chance to score. The prediction thing is run by a deep learning model. The model learns from historical data and makes prediction by reviewing the result of shots taken from similar distance, angle, and defense pressure.
+In recent years, the term [Expected Goals (xG)](https://www.driblab.com/analysis-team/expected-goals-xg-what-it-is-and-how-it-works/) has risen to prominence in football analytics. Being a low scoring game, xG provides with a rather clear insight instead of the score itself. Today I would like to present a related metric called _xG outperformance_ to describe how good a player is at finishing.
 
 ## xG Outperformance
 
-_xG outperformance_ describes the percentile difference between the cumulative goals scored and the cumulative xG from a series of shots S.
+_xG outperformance(xGop)_ describes the value of scored goals when a player has shooting chances that worth 1 xG. It's related to the quotient between scored goals and expected goals from a group of shots taken. We could expect xGop to describe a player's finishing skill.
 
 ```
-xG outperformance = (cumulative goals from S / cumulative xG from S - 1) * 100%
+xG outperformance = (cumulative goals from shots / cumulative xG from shots) - 1
 ```
 
-We could use an example to further explain xG and xG outperformance: Robert Lewandowski had a total of 135 shots in season 2020/21, and the sum of each shot's xG is 32.08. It means Lewy is expected score 32.08 goals last season.
+We could use an example to further explain xGop: Robert Lewandowski had a total of 135 shots in season 2020/21, and the sum of each shot's xG is 32.08.
 
-In fact, Lewy scored 41 goals. Then we can calculate his xG outperformance in the last season: 27.8% (8.92 "extra" goals scored above expectation, and divided by 32.08).
+In fact, Lewy scored 41 goals, which makes his xGop 0.278 (score 0.278 "extra" goals for chances that worth 1 xG) that season.
 
-Obviously, higher xG outperformance means better scoring efficiency. If a player has a positive xG outperformance over a long period of time, his/her finishing ability should be better than league average.
+## Visualization
 
-## Data
-
-I have scrapped the seasonal xG data until now for all players that have scored more than 45 goals in the Premier League since 2014/15. The following plot presents the cumulative xG outperformance for each player included.
+I have scrapped the seasonal xG data until now for all players that have scored more than 60 goals (or 60 xG) in the top 5 european leagues since 2014/15. The following plot presents the cumulative xGop for each player included.
 
 ![Plot1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2021-10-07-xg-outperformance.png)
 
-Also, you can find below the detailed ranking of each player. Mason Greenwood and Timo Werner are two undersampled(cumulative xG < 20) extreme values. 
+Also, you can find below the detailed ranking of each player.
 
-![Plot1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2021-10-07-xg-violin.png)
+![Plot2](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2021-10-07-xg-violin.png)
 
 ## Player notes
 
-Son and Hazard are one league above everyone else. Out of these two, Hazard actaully looks much more amazing. He consistently outperforms xG, with left foot and right foot, inside and outside of the box. Don't forget he's not a pure striker - he dribbles, passes and cuts a lot. For Sonny, his long shot makes a big contribution to his xG outperformance score. He scored 17 goals outside of the box with just 6.3 xG!!
+Son Heung-min is absolutely THE finishing beast here. He has an xGop of 0.408, at least 0.115 higher than second-placed Eden Hazard. Also, his performance is consistent between seasons, and even after switching leagues. To dive a bit deeper, it's Son's long shot that makes him outstanding. He has 17 goals from outside of the box, with just 6.3 xG out of these shots.
 
-Kane's consistency is truly amazing. It's incredibly hard to stay just short of a 20% xG outperformance. Also, Martial is clearly mistreated by United fans. He is in fact the most reliable finisher at the Reds.
+Eden Hazard and Nils Petersen are the other two members in the 0.250-and-above club, and they both surprise me. Hazard is a world class playmaker on top of his finishing skill. Petersen is one of the few target-men out there who ranks atop.
 
-City's misery:
+Messi again proves that he's among, if not exactly, the GOAT out there. He ranks first in the goals scored AND has a xGop of 0.195. I can imagine it's exponentially harder to keep a high xGop as the cumulative goals or xG goes up. People just can't find a way to limit Messi. Harry Kane has comparably both quality and quantity at bank. But he just doesn't come close.
 
-TBA
+On the other side of the table, Braithwaite comes last but I haven't seen any of his games at Ligue 1. But statistics show that Braithwaite is awful in almost EVERY season.
 
-Finally, two cents on Greenwood and Werner:
-
-It's universally acknowledged that undersampled, extreme values are not consistent. The stats will converge as they pick up games and shots. I also took a look at Werner's stats at Leipzig, and they are just fine! So, Werner will be fine. OR SOLD BY CHELSEA, HAHA.
+Manchester City is spearheaded by two big underperformers, Jesus and Sterling, with an xGop of -0.234 and -0.072 respectively. City (or Guardiola) is omnipresent in several big xG upsets. It makes me wonder if it's Guardiola's problem or the poor players'.
 
 ## Further Notes
 
-First of all, xG performance reflects only how clinical a player is. It doesn't correlate well with the player's ability to create chances.
+xG performance reflects only how clinical a player is. It doesn't correlate well with the player's ability to create chances. So don't judge.
 
-Also, this model is overshadowed by the lack of data. I only managed to find seasonal data, while the match-specific data are behind a pay wall. As a result, I could only calculate mean value, instead of value distribution and confidence interval, for each player. 
-
-I also noticed a vague anti-correlation between average xG per shot and xG outperformance. It seems that players are more likely to outperform when they do more low-xG shots, such as freekicks and long-range shots. I would like to check it out as soon as I'm guaranteed with more data.
 
 ## Reference
 
