@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best and worst finisher, visualized
+title: Visualizing the Best and Worst Finisher
 tags: DS
 ---
 
