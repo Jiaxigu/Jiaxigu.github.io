@@ -14,7 +14,7 @@ Today I would like to present a new metric, namely **True Performance(TP)**, to 
 
 The following scatter plot presents all the **TPs** of the best European leagues, including EPL, La Liga, Bundesliga, Serie A and Ligue 1, from 2008 to 2016.
 
-![Plot1](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/allteam.png)
+![Plot1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-08-23-allteam.png)
 
 
 ## Model explained
@@ -48,10 +48,10 @@ For each game played in the five leagues from 2008 to 2016, **SGEP** for home an
 - X-axis: EP. Powerhouses are on the right. Small clubs normally appear on the left. 
 - Y-axis: TP. Teams exceeding expections are on the top. The opposite at the bottom.
 
- 
+
 ## Outperformers
 
-![Plot2](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/hot.png)
+![Plot2](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-08-23-hot.png)
 
 15/16 Leicester. We all know the story but wow. Despite some massive upsets and jaw-dropping winning streaks, they are still expected to be a pleb 54-points team. That converts to somehow 8th place in the Premier League table. No, no Champions League *per voi Signor*!
 
@@ -59,7 +59,7 @@ The other team I would like to mention is Juventus in 13/14. They are expected t
 
 ## Les Misérables
 
-![Plot3](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/not.png)
+![Plot3](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-08-23-not.png)
 
 Oh well...Dortmund. Jürgen Klopp's side did put two 10-plus **TP** seasons back in 10/11 and 11/12, but this time they got a trouble - Robert Lewandowski left for Bayern Munich in the '14 summer. [Ciro Immobile](https://en.wikipedia.org/wiki/Ciro_Immobile) was secured from Torino FC but he couldn't run and score as good as Robert. Consequently their opponents realized it's ok to give up possession since Dortmund is no longer good at creating space. By January they are deep in the relegation zone.
 
@@ -77,5 +77,4 @@ Source code is hosted on [GitHub](https://github.com/Jiaxigu/eu-football-analysi
 [Database](https://www.kaggle.com/hugomathien/soccer) by Hugo Mathien
 
 [An inspiring kaggle kernel](https://www.kaggle.com/yonilev/the-most-predictable-league) by Yoni Lev
-
 

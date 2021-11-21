@@ -30,7 +30,7 @@ plt.show()
 
 Now you have a nice wordcloud here. There are clearly some meaningless words visible, so I'm going to clean up the text soon.
 
-![cloud1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-09-06-cloud1.png)
+![cloud1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-09-06-cloud1.png)
 
 ## Preprocessing
 
@@ -55,7 +55,7 @@ def preprocessing(corpus, stopwords, verify=True):
     
     # remove the stopwords
     clean_token = [word for word in token if word not in stopwords]
-
+    
     # lemmatization
     # nltk.download('wordnet')
     lemmatizer = WordNetLemmatizer()
@@ -78,7 +78,7 @@ def preprocessing(corpus, stopwords, verify=True):
 
 So let's do wordcloud again with the same set-up. Now it looks way better since most stopwords are removed.
 
-![cloud1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-09-06-cloud2.png)
+![cloud1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-09-06-cloud2.png)
 
 ## Sentiment analysis
 
@@ -106,7 +106,7 @@ for row in range(extractedMail.shape[0]):
 
 The visualization with seaborn looks as follows.
 
-![cloud1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-09-06-sa.png)
+![cloud1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-09-06-sa.png)
 
 It's surprising to see United Kingdom has such a low sentiment score. The other results generally accord with my expectation.
 

@@ -22,11 +22,11 @@ In fact, Lewy scored 41 goals, which makes his xGop 0.278 (score 0.278 "extra" g
 
 I have scrapped the seasonal xG data until now for all players that have scored more than 60 goals (or 60 xG) in the top 5 european leagues since 2014/15. The following plot presents the cumulative xGop for each player included.
 
-![Plot1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2021-10-07-xg-outperformance.png)
+![Plot1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-10-07-xg-outperformance.png)
 
 Also, you can find below the detailed ranking of each player.
 
-![Plot2](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2021-10-07-xg-violin.png)
+![Plot2](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-10-07-xg-violin.png)
 
 ## Player notes
 

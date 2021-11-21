@@ -18,7 +18,7 @@ The Premier League has been the most entertaining football league in the last de
 
 When I made this post: [How Crazy is 15/16 Leicester City?](https://jiaxigu.github.io/visualization/2017/08/23/how-crazy-is-leicester-city/) I was impressed by the fact that **no** Premier League teams could enjoy a season expecation over 85 points. There isn't such a team in Italy as well, but Serie A is plagued with match-fixing scandals so bookers tend to be very cautious with them.
 
-![Plot1](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/league-dist.png){: .center-image}
+![Plot1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-20-league-dist.png){: .center-image}
 
 
 ### Survivors
@@ -37,7 +37,7 @@ But in England, there isn't a single team that could dominate year in, year out.
 
 ## Who has the highest expecations?
 
-![Plot2](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/pl-exp.png){: .center-image}
+![Plot2](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-20-pl-exp.png){: .center-image}
 
 As we can see most of the top teams went through ups and downs but Arsène Wenger's _Gunners_ remains stable (at 4th place mostly). Manchester City had a power spike. Liverpool did the worst among the *ol'tyme goods* in the last decade, which is probably one of the darkest era in the club's history.
 
@@ -45,7 +45,7 @@ The middle class teams are absent in the Premier League. Tottenham is catching u
 
 ## Performance in a glance
 
-![Plot3](https://raw.githubusercontent.com/Jiaxigu/eu-football-analysis/master/plots/pl-real.png){: .center-image}
+![Plot3](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-20-pl-real.png){: .center-image}
 
 Talking about zero hopes for the title, Leicester won it all with only 81 points. It's a bit unfortunate for Tottenham, as Mauricio Pochettino's side reached prime last season and collected 86 points, but without any trophies.
 

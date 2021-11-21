@@ -36,7 +36,7 @@ Here you need to specify the python version and branches you want to build. Trav
 
 If your package works, Travis will build it and give it a `passing` badge.
 
-![travis](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2018-01-30-travis.jpeg){: .center-image}
+![travis](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2018-01-30-travis.jpeg){: .center-image}
 
 
 ## Coveralls.io
@@ -45,7 +45,7 @@ As you can see in the `.travis.yml`, [Coveralls.io](https://coveralls.io/) is in
 
 You don't even have to run the code coverage analysis by yourself; Travis will execute the code and submit automatically the coverage report to Coveralls. If everything works it should look like this:
 
-![coveralls](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2018-01-30-coveralls.jpeg){: .center-image}
+![coveralls](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2018-01-30-coveralls.jpeg){: .center-image}
 
 However, if you insist on submitting coverage report by yourself (or from a private CI), you need to do this:
 

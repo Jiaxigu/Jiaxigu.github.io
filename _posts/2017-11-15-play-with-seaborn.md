@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 plt.scatter('Attack', 'Defense', data=pokemon)
 {% endhighlight %}
 
-![import1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-11-15-import-1.png){: .center-image}
+![import1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-15-import-1.png){: .center-image}
 
 Then we import seaborn and try again:
 
@@ -33,7 +33,7 @@ import seaborn as sns
 plt.scatter('Attack', 'Defense', data=pokemon)
 {% endhighlight %}
 
-![import1](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-11-15-import-2.png){: .center-image}
+![import1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-15-import-2.png){: .center-image}
 
 
 It looks better without any sophisticated configurations.
@@ -66,7 +66,7 @@ Now with seaborn:
 sns.lmplot('Attack', 'Defense', data=pokemon, fit_reg=False, hue='Stage')
 {% endhighlight %}
 
-![hue](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-11-15-hue.png){: .center-image}
+![hue](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-15-hue.png){: .center-image}
 
 Wait, wait, wait. How did you configure colors in seaborn? Magic?
 
@@ -76,7 +76,7 @@ Nah, I haven't done yet. With `sns.set_palette()` you can set the default color 
 sns.set_palette('colorblind')
 sns.palplot(sns.color_palette())
 {% endhighlight %}
-![palette](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-11-15-palette.png){: .center-image}
+![palette](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-15-palette.png){: .center-image}
 
 ## Customizing with matplotlib
 
@@ -95,7 +95,7 @@ sns.plt.subplots_adjust(top=0.94)
 sns.plt.suptitle('Attack versus defense', fontsize=16)
 {% endhighlight %}
 
-![config](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-11-15-config.png){: .center-image}
+![config](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-11-15-config.png){: .center-image}
 
 ## Flaws
 

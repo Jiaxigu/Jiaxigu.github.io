@@ -18,7 +18,7 @@ Rather than diving deep into the process, I want to show the choropleth map in t
 
 **[Link to the map](https://ada-choropleth.herokuapp.com/) (it's on free Heroku server, need 10 secs to activate)**
 
-![map](https://raw.githubusercontent.com/Jiaxigu/Jiaxigu.github.io/master/assets/images/2017-09-04-swiss-grant.jpeg)
+![map](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-09-04-swiss-grant.jpeg)
 
 The interactive choropleth map is hosted at [Heroku](https://www.heroku.com/). You really need to check this website out if you want to serve online your personal work.
 
@@ -50,7 +50,7 @@ If you try to print ```place``` it returns
 
 ```
 <Place name="University of Bern", lat=46.9504896, lng=7.438119000000002>
-``` 
+```
 
 Now with some easy look-up in the documentation we are in full possession of well structured data.
 
