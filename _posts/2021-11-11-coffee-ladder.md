@@ -38,7 +38,7 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Cost-effectiveness: 5.0**. Can't ask for anything better for just under 1.7 RMB per bag.
 - **Sinloy 03 Cherry Blend: Sweet Medium Roast, Score: 3.3**
   - **Flavor: 3.0**. A big blend of fruits. Feels too artificial to me.
-  - **Aftertaste: 3.5**. Start with wine, but loses freshness with time.
+  - **Aftertaste: 3.5**. Starts with wine, but loses freshness with time.
   - **Aroma: 3.0**. Fresh cherry smell.
   - **Cost-effectiveness: 4.0**. One of the expensive roasts in the Sinloy lineup at 2.4 RMB per bag. The extra money buys uniqueness, but not quality. 
 - **Sinloy 04 Yirgacheffe: Balanced Light Roast, Score: 3.5**
@@ -46,14 +46,24 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Aftertaste: 4.5**. Sharp sour aftertaste, with lingering lemon and mint flavor. The best part of the experience.
   - **Aroma: 2.5**. The light citrus smell checks out with its flavor but vanishes quickly.
   - **Cost-effectiveness: 4.0**. Lives up to expectation as the most expensive roast among the Sinloy lineup at over 3.5 RMB per bag.
-- **Sinloy 05 Hambela: Sweet Light Roast, Score: 3.9**
-  - **Flavor: 4.0**. Fresh sweet flavor. Tastes like juice.
-  - **Aftertaste: 4.0**. Strawberry and passion fruit.
-  - **Aroma: 3.5**. Still strawberry, but overall it's a bit artificial, or more like fructose. 
+- **Sinloy 05 Hambela: Sweet Light Roast, Score: 3.6**
+  - **Flavor: 3.5**. Fresh sweet flavor. For me the sweetness is a bit too much so that the coffee tastes like juice.
+  - **Aftertaste: 3.5**. Strawberry and passion fruit. It doesn't finish well though, tastes like artificial fructose in the end.
+  - **Aroma: 3.5**. Strawberry, has that artificial feeling too.
   - **Cost-effectiveness: 4.0**. For 3.4 RMB per bag it's good.
-- **Illy Intenso Bold Roast: Body Dark Roast, Score: 3.6**
-  - **Flavor: 4.0**. Strong bitter flavor. The harsh taste provides boost on a day when I'm ready to kick some ass.
-  - **Aftertaste: 3.5**. Smoky and nutty aftertaste that lasts.
+- **Illy Intenso Bold Roast: Body Dark Roast, Score: 3.7**
+  - **Flavor: 4.0**. Strong bitter flavor. The heavy body is unique and enjoyable.
+  - **Aftertaste: 3.5**. Smoky, nutty aftertaste that lasts.
   - **Aroma: 4.0**. The catchy carbony smell checks out with its flavor.
-  - **Cost-effectiveness: 2.5**. I was a frequent buyer when it was around 5 RMB per bag. But for over 7.1 RMB per bag now, I don't feel like this brew could justify its price.
+  - **Cost-effectiveness: 3.0**. I was a frequent buyer when it was around 5 RMB per bag. But for over 7.1 RMB per bag now, it takes a second thought.
+- **AGF Blendy Special Blend: Balanced Dark Roast, Score: 3.3**
+  - **Flavor: 3.0**. Mild bitter flavor with sparkling sweet. Not a fan of this setup but I can understand why.
+  - **Aftertaste: 2.5**. Artificial sweet aftertaste without variety.
+  - **Aroma: 3.5**. Vanilla and syrup.
+  - **Cost-effectiveness: 4.5**. Surprisingly cheap at 2 RMB per bag.
+- **Peet's Signature Blend: Body Dark Roast, Score: 3.0**
+  - **Flavor: 3.0**. A weird dark roast. Smells sweety but acidity gradually takes over.
+  - **Aftertaste: 3.0**. Starts with dark chocolate, then the sourness loses control.
+  - **Aroma: 4.0**. Chocolate and caramel. 
+  - **Cost-effectiveness: 2.0**. An easy pass at 7.6 RMB per bag.
 
