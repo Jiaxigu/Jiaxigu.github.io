@@ -41,7 +41,7 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Aftertaste: 3.5**. Starts with wine, but loses freshness with time.
   - **Aroma: 3.0**. Fresh cherry smell.
   - **Cost-effectiveness: 4.0**. One of the expensive roasts in the Sinloy lineup at 2.4 RMB per bag. The extra money buys uniqueness, but not quality. 
-- **Sinloy 04 Yirgacheffe: Balanced Light Roast, Score: 3.5**
+- **Sinloy 04 Yirgacheffe: Balanced Light Roast, Score: 3.6**
   - **Flavor: 3.5**. The acidity is catchy, but feels like being shelved for years though.
   - **Aftertaste: 4.5**. Sharp sour aftertaste, with lingering lemon and mint flavor. The best part of the experience.
   - **Aroma: 2.5**. The light citrus smell checks out with its flavor but vanishes quickly.
