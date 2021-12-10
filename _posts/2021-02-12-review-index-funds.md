@@ -2,8 +2,8 @@
 layout: post
 title: 笔记《指数基金投资指南》
 hidden: true
-tags: Review
-categories: Review
+tags: Archive
+categories: Archive
 ---
 
 全书内容不多，但是作者三观挺正，行文里浓浓的理工风格非常适合我，阅读体验还是不错的。8/10
