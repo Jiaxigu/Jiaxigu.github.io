@@ -2,8 +2,8 @@
 layout: post
 title: 笔记《穷查理宝典》
 hidden: true
-tags: Archive
-categories: Archive
+tags: Review
+categories: Zen
 ---
 
 最近看/听完了一系列投资理财类的书，包括《穷查理宝典》、《穷爸爸富爸爸》等。到目前最大感受是，好的投资者不一定是好的老师。

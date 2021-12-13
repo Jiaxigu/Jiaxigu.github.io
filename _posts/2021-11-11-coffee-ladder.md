@@ -11,7 +11,7 @@ There are two types of criteria: descriptive and evaluative.
 The descriptive criteria don't judge if a coffee is good or bad, they describe the coffee's traits or characteristics. 
 
 - Roast level (which implies acidity): light, medium, dark
-- Type: body, balanced, sweet
+- Texture: One or multiple comparable tastes to define the coffee's identity
 
 On the contrary, the evaluative criteria shows how much credit I give to each aspect of a coffee. 
 
@@ -66,4 +66,11 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Aftertaste: 3.0**. Starts with dark chocolate, then the sourness loses control.
   - **Aroma: 4.0**. Chocolate and caramel. 
   - **Cost-effectiveness: 2.0**. An easy pass at 7.6 RMB per bag.
+
+## Todo
+
+- Fisher
+- Colin
+
+
 

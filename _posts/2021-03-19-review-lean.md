@@ -2,8 +2,8 @@
 layout: post
 title: 笔记《精益创业》
 hidden: true
-tags: Archive
-categories: Archive
+tags: Review
+categories: Zen
 ---
 
 除了个人经验之外没有完善的论证，优点在于作者的陈述很诚恳。8/10

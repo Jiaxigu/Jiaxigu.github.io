@@ -2,8 +2,8 @@
 layout: post
 title: 乐评：三张后摇，三阶生活
 hidden: true
-tags: Archive
-categories: Archive
+tags: Review
+categories: Zen
 ---
 
 今天Spotify又给我推了天爆的First Breath after Coma. 当初注意到它，只不过是因为略显逼格的标题；已经沉迷电音很久的我，不曾想过，这首后摇作品，是在瑞士三年里，我播放最多次的单曲。
