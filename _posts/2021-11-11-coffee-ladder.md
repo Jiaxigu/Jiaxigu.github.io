@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ranking Drip Coffee Bags
-tags: Life
+tags: DS
 ---
 
 I have been consuming drip coffee bags regularly for two years and I would like to rank them, all at once. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
