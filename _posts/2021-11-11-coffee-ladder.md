@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ranking Drip Coffee Bags
-tags: DS
+tags: Data
 ---
 
 I have been consuming drip coffee bags regularly for two years and I would like to rank them, all at once. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
@@ -38,8 +38,8 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Cost-effectiveness: 4.5**. Pretty good for just under 1.7 RMB per bag.
 - **Sinloy 03 Cherry Blend: Medium Roast, Cherry and Wine, Score: 3.4**
   - **Flavor: 3.3**. A big blend of fruits. Feels a bit artificial to me.
-  - **Aftertaste: 3.5**. Starts with wine, but loses freshness with time.
-  - **Aroma: 3.0**. Fresh cherry smell. Feels a bit singleton.
+  - **Aftertaste: 3.0**. Starts with wine, but loses freshness with time.
+  - **Aroma: 3.5**. Fresh cherry smell.
   - **Cost-effectiveness: 4.0**. One of the expensive roasts in the Sinloy lineup at 2.4 RMB per bag.
 - **Sinloy 04 Yirgacheffe: Light Roast, Citrus and Mint, Score: 3.7**
   - **Flavor: 3.6**. The acidity is catchy, but feels like being shelved for years though.
@@ -62,10 +62,35 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Aroma: 3.5**. Vanilla and syrup.
   - **Cost-effectiveness: 4.5**. Surprisingly cheap at 2 RMB per bag.
 - **Peet's Signature Blend: Dark Roast, Chocolate, Score: 3.0**
-  - **Flavor: 3.0**. A weird dark roast. Smells sweety but acidity gradually takes over.
-  - **Aftertaste: 3.0**. Starts with dark chocolate, then the sourness loses control.
+  - **Flavor: 3.0**. A weird dark roast. Smells sweet but acidity gradually takes over.
+  - **Aftertaste: 3.0**. Starts with dark chocolate, then sourness loses control.
   - **Aroma: 4.0**. Chocolate and caramel. 
   - **Cost-effectiveness: 2.0**. An easy pass at 7.6 RMB per bag.
+- **Fisher Gesha Blend: Light Roast, Citrus and Berry, Score: 3.5**
+  - **Flavor: 3.5**. Fruity themed flavor. Enjoyable overall but could use a bit more distinction.
+  - **Aftertaste: 4.0**. Starts with berry, then acidity picks up as coffee cools down.
+  - **Aroma: 2.5**. Very weak fruity smell.
+  - **Cost-effectiveness: 4.0**. Not bad at 3.2 RMB per bag.
+- **Fisher Ethiopia Worka Washed: Light Roast, Citrus and Green Tea, Score: 3.7**
+  - **Flavor: 3.5**. Tastes similar to Yirgacheffe which means it can't be awful.
+  - **Aftertaste: 3.0**. Nothing special at beginning. Citrus takes over after coffee cools down.
+  - **Aroma: 4.5**. Very fun aroma. Floral scent with a hidden note of green tea.
+  - **Cost-effectiveness: 4.0**. Good quality at 3.2 RMB per bag.
+- **Fisher Ethiopia Aricha Natural: Light Roast, Chocolate, Score: **
+  - **Flavor: **.
+  - **Aftertaste: **. 
+  - **Aroma: **. 
+  - **Cost-effectiveness: **
+- **Fisher Yunnan Zuo's Catimor Washed: Light Roast, Chocolate, Score: **
+  - **Flavor: **.
+  - **Aftertaste: **. 
+  - **Aroma: **. 
+  - **Cost-effectiveness: **
+- **Fisher Kenya Dormans Washed: Light Roast, Chocolate, Score: **
+  - **Flavor: **.
+  - **Aftertaste: **. 
+  - **Aroma: **. 
+  - **Cost-effectiveness: **
 
 ## Todo
 

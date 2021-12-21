@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 596 Days of Gacha
-tags: DS
+tags: Data
 ---
 
 Since April 2020, I have been playing *Arknights*, a gacha game. In the meantime, I have been keeping track of important in-game events, such as character pulls and upgrades. I believe it's time for some nice data visualisation and some reasoning on why people shouldn't do p2w (pay-to-win) in gacha games, or simply play them.
