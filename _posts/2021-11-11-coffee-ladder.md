@@ -66,36 +66,31 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
   - **Aftertaste: 3.0**. Starts with dark chocolate, then sourness loses control.
   - **Aroma: 4.0**. Chocolate and caramel. 
   - **Cost-effectiveness: 2.0**. An easy pass at 7.6 RMB per bag.
-- **Fisher Gesha Blend: Light Roast, Citrus and Berry, Score: 3.5**
+- **Fisher Gesha Blend: Light Roast, Berry, Score: 3.5**
   - **Flavor: 3.5**. Fruity themed flavor. Enjoyable overall but could use a bit more distinction.
   - **Aftertaste: 4.0**. Starts with berry, then acidity picks up as coffee cools down.
   - **Aroma: 2.5**. Very weak fruity smell.
   - **Cost-effectiveness: 4.0**. Not bad at 3.2 RMB per bag.
-- **Fisher Ethiopia Worka Washed: Light Roast, Citrus and Green Tea, Score: 3.7**
-  - **Flavor: 3.5**. Tastes similar to Yirgacheffe which means it can't be awful.
+- **Fisher Ethiopia Worka Washed: Light Roast, Citrus and Tea, Score: 3.7**
+  - **Flavor: 3.5**. Floral and tea themed flavor. Similar taste with Yirgacheffe.
   - **Aftertaste: 3.0**. Nothing special at beginning. Citrus takes over after coffee cools down.
   - **Aroma: 4.5**. Very fun aroma. Floral scent with a hidden note of green tea.
   - **Cost-effectiveness: 4.0**. Good quality at 3.2 RMB per bag.
-- **Fisher Ethiopia Aricha Natural: Light Roast, Chocolate, Score: **
-  - **Flavor: **.
-  - **Aftertaste: **. 
-  - **Aroma: **. 
-  - **Cost-effectiveness: **
-- **Fisher Yunnan Zuo's Catimor Washed: Light Roast, Chocolate, Score: **
-  - **Flavor: **.
-  - **Aftertaste: **. 
-  - **Aroma: **. 
-  - **Cost-effectiveness: **
+- **Fisher Ethiopia Aricha Natural: Light Roast, Wine, Score: 3.2**
+  - **Flavor: 3.2**. Fruity themed flavor. Lack of variety and the acidity doesn't develop well.
+  - **Aftertaste: 3.0**. Nothing special except from a weak note of, possibly, mango.
+  - **Aroma: 3.0**. Fruit wine, but fades quickly.
+  - **Cost-effectiveness: 3.5**. I have higher expectation for this roast.
+- **Fisher Yunnan Zuo's Catimor Washed: Light Roast, Almond, Score: 3.4**
+  - **Flavor: 3.7**. Smooth touch and trivial sweetness. Despite all of this, Catimor isn't a perfect match for light roast.
+  - **Aftertaste: 3.0**. Almond.
+  - **Aroma: 2.5**. Nothing special.
+  - **Cost-effectiveness: 3.5**. Yunnan Catimor should be the cheapest in the 5x4 mix package.
 - **Fisher Kenya Dormans Washed: Light Roast, Chocolate, Score: **
   - **Flavor: **.
   - **Aftertaste: **. 
   - **Aroma: **. 
   - **Cost-effectiveness: **
-
-## Todo
-
-- Fisher
-- Colin
 
 
 
