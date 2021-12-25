@@ -22,75 +22,70 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
 
 ## The Ladder
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-coffee-ladder.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-cofee-ladder.png)
 
 ## Detailed Reviews
 
-- **Sinloy 01 Espresso: Dark Roast, Chocolate, Score: 3.1**
+- **Sinloy 01 Espresso: Dark Roast, Chocolate**
   - **Flavor: 3.0**. Strong and bitter, but not much enjoyable.
   - **Aftertaste: 2.5**. Chocolatey, but then deteriorates into causticness.
   - **Aroma: 3.0**. Chocolatey smell with ok quality.
   - **Cost-effectiveness: 4.0**. Costs 1.7 RMB per bag.
-- **Sinloy 02 Blue Mountain: Medium Roast, Berry, Score: 3.6**
+- **Sinloy 02 Blue Mountain: Medium Roast, Berry**
   - **Flavor: 3.8**. A balanced roast in all means.
   - **Aftertaste: 3.0**. Starts ok with blueberry, but then sourness grows with time.
   - **Aroma: 2.0**. Probably cocoa or chocolate. Raw and not enjoyable.
   - **Cost-effectiveness: 4.5**. Pretty good for just under 1.7 RMB per bag.
-- **Sinloy 03 Cherry Blend: Medium Roast, Cherry and Wine, Score: 3.4**
+- **Sinloy 03 Cherry Blend: Medium Roast, Cherry and Wine**
   - **Flavor: 3.3**. A big blend of fruits. Feels a bit artificial to me.
   - **Aftertaste: 3.0**. Starts with wine, but loses freshness with time.
   - **Aroma: 3.5**. Fresh cherry smell.
   - **Cost-effectiveness: 4.0**. One of the expensive roasts in the Sinloy lineup at 2.4 RMB per bag.
-- **Sinloy 04 Yirgacheffe: Light Roast, Citrus and Mint, Score: 3.7**
+- **Sinloy 04 Yirgacheffe: Light Roast, Mint and Lemon**
   - **Flavor: 3.6**. The acidity is catchy, but feels like being shelved for years though.
   - **Aftertaste: 4.5**. Sharp sour aftertaste, with lingering lemon and mint flavor. The best part of the experience.
   - **Aroma: 2.5**. The light citrus smell checks out with its flavor but vanishes quickly.
   - **Cost-effectiveness: 4.0**. Lives up to expectation as the most expensive roast among the Sinloy lineup at 3.5 RMB per bag.
-- **Sinloy 05 Hambela: Light Roast, Strawberry, Score: 3.7**
+- **Sinloy 05 Hambela: Light Roast, Strawberry**
   - **Flavor: 3.6**. Fresh sweet flavor. For me the sweetness is a bit too much so that the coffee tastes like juice.
   - **Aftertaste: 3.5**. Strawberry and passion fruit. It doesn't finish well though, tastes like artificial fructose in the end.
   - **Aroma: 3.5**. Strawberry, has that artificial feeling too.
   - **Cost-effectiveness: 4.0**. For 3.4 RMB per bag it's ok.
-- **Illy Intenso Bold Roast: Dark Roast, Caramel, Score: 3.6**
+- **Illy Intenso Bold Roast: Dark Roast, Caramel**
   - **Flavor: 3.8**. Strong bitter flavor. The heavy body is unique and enjoyable.
   - **Aftertaste: 3.5**. Smoky, nutty aftertaste that lasts.
   - **Aroma: 4.0**. The caramel smell checks out with its flavor.
   - **Cost-effectiveness: 3.0**. I was a frequent buyer when it was around 5 RMB per bag. But for over 7.1 RMB per bag now, it takes a second thought.
-- **AGF Blendy Special Blend: Dark Roast, Syrup, Score: 3.3**
+- **AGF Blendy Special Blend: Dark Roast, Syrup**
   - **Flavor: 3.0**. Mild bitter flavor with sparkling sweet. Not a fan of this setup but I can understand why.
   - **Aftertaste: 2.5**. Artificial sweet aftertaste without variety.
   - **Aroma: 3.5**. Vanilla and syrup.
   - **Cost-effectiveness: 4.5**. Surprisingly cheap at 2 RMB per bag.
-- **Peet's Signature Blend: Dark Roast, Chocolate, Score: 3.0**
+- **Peet's Signature Blend: Dark Roast, Chocolate**
   - **Flavor: 3.0**. A weird dark roast. Smells sweet but acidity gradually takes over.
   - **Aftertaste: 3.0**. Starts with dark chocolate, then sourness loses control.
   - **Aroma: 4.0**. Chocolate and caramel. 
   - **Cost-effectiveness: 2.0**. An easy pass at 7.6 RMB per bag.
-- **Fisher Gesha Blend: Light Roast, Berry, Score: 3.5**
+- **Fisher Gesha Blend: Light Roast, Berry**
   - **Flavor: 3.5**. Fruity themed flavor. Enjoyable overall but could use a bit more distinction.
   - **Aftertaste: 4.0**. Starts with berry, then acidity picks up as coffee cools down.
   - **Aroma: 2.5**. Very weak fruity smell.
   - **Cost-effectiveness: 4.0**. Not bad at 3.2 RMB per bag.
-- **Fisher Ethiopia Worka Washed: Light Roast, Citrus and Tea, Score: 3.7**
-  - **Flavor: 3.5**. Floral and tea themed flavor. Similar taste with Yirgacheffe.
+- **Fisher Ethiopia Worka Washed: Light Roast, Tea and Citrus**
+  - **Flavor: 3.6**. Floral and tea themed flavor. Similar taste with Yirgacheffe.
   - **Aftertaste: 3.0**. Nothing special at beginning. Citrus takes over after coffee cools down.
   - **Aroma: 4.5**. Very fun aroma. Floral scent with a hidden note of green tea.
   - **Cost-effectiveness: 4.0**. Good quality at 3.2 RMB per bag.
-- **Fisher Ethiopia Aricha Natural: Light Roast, Wine, Score: 3.2**
+- **Fisher Ethiopia Aricha Natural: Light Roast, Wine**
   - **Flavor: 3.2**. Fruity themed flavor. Lack of variety and the acidity doesn't develop well.
   - **Aftertaste: 3.0**. Nothing special except from a weak note of, possibly, mango.
   - **Aroma: 3.0**. Fruit wine, but fades quickly.
   - **Cost-effectiveness: 3.5**. I have higher expectation for this roast.
-- **Fisher Yunnan Zuo's Catimor Washed: Light Roast, Almond, Score: 3.4**
+- **Fisher Yunnan Zuo's Catimor Washed: Light Roast, Almond**
   - **Flavor: 3.7**. Smooth touch and trivial sweetness. Despite all of this, Catimor isn't a perfect match for light roast.
   - **Aftertaste: 3.0**. Almond.
   - **Aroma: 2.5**. Nothing special.
   - **Cost-effectiveness: 3.5**. Yunnan Catimor should be the cheapest in the 5x4 mix package.
-- **Fisher Kenya Dormans Washed: Light Roast, Chocolate, Score: **
-  - **Flavor: **.
-  - **Aftertaste: **. 
-  - **Aroma: **. 
-  - **Cost-effectiveness: **
 
 
 
