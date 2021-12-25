@@ -22,7 +22,7 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
 
 ## The Ladder
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-cofee-ladder.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-coffee-ladder.png)
 
 ## Detailed Reviews
 
