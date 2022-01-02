@@ -8,17 +8,17 @@ Here is the episode 2 of my brand new *Rate the Drip* Series. This time I'm goin
 
 
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-1.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-1.png)
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-2.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-2.png)
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-3.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-3.png)
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-4.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-4.png)
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-5.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-5.png)
 
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-fisher-light-6.png)
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-12-21-fisher-light-6.png)
 
 ## Details
 
