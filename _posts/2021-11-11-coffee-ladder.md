@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rate the Drip
+title: Rate the Drip: A New Project
 tags: Coffee
 ---
 
