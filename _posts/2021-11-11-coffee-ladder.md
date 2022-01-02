@@ -32,21 +32,21 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
 - **Sinloy 02 Blue Mountain: Medium Roast, Berry**
   - **Flavor: 3.8**. A balanced roast in all means.
   - **Aftertaste: 3.0**. Starts ok with blueberry, but then sourness grows with time.
-  - **Aroma: 2.5**. Probably cocoa or chocolate. Raw but not enjoyable.
+  - **Aroma: 2.8**. Probably cocoa or chocolate. Raw but not enjoyable.
 - **Sinloy 03 Cherry Blend: Medium Roast, Cherry and Wine**
   - **Flavor: 3.3**. A big blend of fruits. Feels a bit artificial to me.
-  - **Aftertaste: 3.0**. Starts with wine, but loses freshness with time.
+  - **Aftertaste: 3.2. Starts with wine, but loses freshness with time.
   - **Aroma: 3.5**. Fresh cherry smell.
 - **Sinloy 04 Yirgacheffe: Light Roast, Mint and Lemon**
   - **Flavor: 3.6**. The acidity is catchy, but feels like being shelved for years though.
   - **Aftertaste: 4.5**. Sharp sour aftertaste, with lingering lemon and mint flavor. The best part of the experience.
-  - **Aroma: 2.5**. The light citrus smell checks out with its flavor but vanishes quickly.
+  - **Aroma: 2.7**. The light citrus smell checks out with its flavor but vanishes quickly.
 - **Sinloy 05 Hambela: Light Roast, Strawberry**
   - **Flavor: 3.6**. Fresh sweet flavor. For me the sweetness is a bit too much so that the coffee tastes like juice.
   - **Aftertaste: 3.5**. Strawberry and passion fruit. It doesn't finish well though, tastes like artificial fructose in the end.
   - **Aroma: 3.5**. Strawberry, has that artificial feeling too.
 - **Illy Intenso Bold Roast: Dark Roast, Caramel**
-  - **Flavor: 3.6**. Strong bitter flavor. The heavy body is unique and enjoyable.
+  - **Flavor: 3.4. Strong bitter flavor. The heavy body is unique and enjoyable.
   - **Aftertaste: 3.5**. Smoky, nutty aftertaste that lasts.
   - **Aroma: 4.0**. The caramel smell checks out with its flavor.
 - **AGF Blendy Special Blend: Dark Roast, Syrup**
