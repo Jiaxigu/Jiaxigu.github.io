@@ -31,8 +31,8 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
 ## Uncategorized Reviews
 
 - **Illy Intenso Bold Roast: Dark Roast, Caramel**
-  - **Flavor: 3.4**. Strong bitter flavor. The heavy body is unique and enjoyable.
-  - **Aftertaste: 3.5**. Smoky, nutty aftertaste that lasts.
+  - **Flavor: 3.5**. Strong bitter flavor. The heavy body is unique and enjoyable.
+  - **Aftertaste: 3.4**. Smoky, nutty aftertaste that lasts.
   - **Aroma: 4.0**. The caramel smell checks out with its flavor.
 - **AGF Blendy Special Blend: Dark Roast, Syrup**
   - **Flavor: 3.3**. Mild bitter flavor with sparkling sweet. Not a fan of this setup but I can understand why.
