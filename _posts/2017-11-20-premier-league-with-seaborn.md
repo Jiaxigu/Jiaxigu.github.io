@@ -59,16 +59,16 @@ I did the analysis simply to try out `violinplot` and `boxplot` with seaborn, an
 
 `violinplot` is more of a predictive plot. It comes with integrated KDE fitting and require a sufficient number of data points to be efficient. 
 
-{% highlight python %}
+```python
 sns.violinplot(x='exp', y='nm', data=epl_df, inner='stick', scale='width')
-{% endhighlight %}
+```
 
 On the other hand `boxplot` is less predictive, but reflects well the dataset. The grids on the box are lower quartile, median, and upper quartile respectively. The whiskers are the extreme points within 1.5 IQR of lower and upper quartile. Isolated points are out of the 1.5 IQR range. Combined with `swarmplot`, you could have a good read on overall and individual characteristics of the dataset.
 
-{% highlight python %}
+```python
 sns.boxplot(x='real', y='nm', data=epl_df)
 sns.swarmplot(x='real', y='nm', data=epl_df, color='.25')
-{% endhighlight %}
+```
 
 ## Reference
 

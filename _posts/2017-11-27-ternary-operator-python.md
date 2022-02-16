@@ -10,31 +10,20 @@ So today I came across a situation where I need to use **ternary conditional ope
 
 List comprehensions provide a concise way to create lists in python. Instead of a `for`  loop, we can write simply one line of code like this:
 
-{% highlight python %}
+```python
 l = [-1, 2, 3, 5, 10]
 a = [e+1 for e in l]
-{% endhighlight %}
-
-Then we get:
-
-{% highlight python %}
-a = [0, 3, 4, 6, 11]
-{% endhighlight %}
-
+print(a) # [0, 3, 4, 6, 11]
+```
 
 ## Iterator filter
 
 On top of it, we can even add an `if` statement to the list comprehension. 
 
-{% highlight python %}
+```python
 b = [e for e in l if e>2]
-{% endhighlight %}
-
-Then we get:
-
-{% highlight python %}
-a = [3, 5, 10]
-{% endhighlight %}
+print(b) # [3, 5, 10]
+```
 
 `if` here is an **iterator filter**. This is cool. But the problem is: what if you want to keep elements that are larger than 2, **and**, for example, multiply the other elements by 2 and make a new list?
 
@@ -42,33 +31,23 @@ a = [3, 5, 10]
 
 Now what we need is a **ternary conditional operator**.
 
-{% highlight python %}
+```python
 c = [e if e>2 else e*2 for e in l]
-{% endhighlight %}
-
-Then we get:
-
-{% highlight python %}
-c = [-2, 4, 3, 5, 10]
-{% endhighlight %}
+print(c) # c = [-2, 4, 3, 5, 10]
+```
 
 The ternary conditional operator writes in general:
 
-{% highlight python %}
+```
 <expression1> if <condition> else <expression2>
-{% endhighlight %}
+```
 
 And you can go further with nested `if`-`elif`-`else`-like statements:
 
-{% highlight python %}
+```python
 c = [e if e>2 else e*2 if e>0 else e+10 for e in l]
-{% endhighlight %}
-
-The result should be:
-
-{% highlight python %}
-c = [9, 4, 3, 5, 10]
-{% endhighlight %}
+print(c) # [9, 4, 3, 5, 10]
+```
 
 ## Why position matters
 
