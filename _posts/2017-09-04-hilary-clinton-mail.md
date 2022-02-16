@@ -14,7 +14,7 @@ The data consists of Hilary Clinton's mails published during her campaign in the
 
 It's really quick to have a wordcloud running. However, data preprocessing makes a big difference as it will be visualized.
 
-{% highlight python %}
+```python
 from wordcloud import WordCloud # pip install wordcloud
 
 # set max words to 200 to simplify visualization
@@ -26,8 +26,7 @@ plt.figure(figsize=(20, 10)) # plot
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.show()
-{% endhighlight %}
-
+```
 Now you have a nice wordcloud here. There are clearly some meaningless words visible, so I'm going to clean up the text soon.
 
 ![cloud1](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2017-09-06-cloud1.png)
@@ -43,7 +42,7 @@ Preprocessing is composed of the following steps:
 
 The token returned are now ready for visualization and NLP.
 
-{% highlight python %}
+```python
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.stem.snowball import EnglishStemmer
@@ -74,7 +73,7 @@ def preprocessing(corpus, stopwords, verify=True):
         print('token size after preprocessing: ', len(no_punctuation_token))
     
     return no_punctuation_token
-{% endhighlight %}
+```
 
 So let's do wordcloud again with the same set-up. Now it looks way better since most stopwords are removed.
 
@@ -84,7 +83,7 @@ So let's do wordcloud again with the same set-up. Now it looks way better since 
 
 The second purpose of this study is to perform sentiment analysis, grouped by country, over the mails. `pycountry` can be used to detect country names in the mails. After tagging each mail with country names, sentiment analysis can be performed as follows.
 
-{% highlight python %}
+```python
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # use compound value for polarity aggregation
@@ -102,7 +101,7 @@ def calc_sentiment(row):
 
 for row in range(extractedMail.shape[0]):
     calc_sentiment(row)
-{% endhighlight %}
+```
 
 The visualization with seaborn looks as follows.
 
@@ -117,7 +116,7 @@ The topic modeling part is reinforced by gensim and Latent Dirichlet Allocation(
 - Use gensim to generate topics with most relevant keywords.
 - Remove meaningless stopwords and run TM again, on an iterative basis.
 
-{% highlight python %}
+```python
 from gensim import corpora, models, similarities
 
 # make and save dictionary
@@ -136,7 +135,7 @@ corpus = corpora.MmCorpus('corpus.mm')
 # run
 model = models.LdaModel(corpus, id2word=dictionary, num_topics=10)
 model.print_topics()
-{% endhighlight %}
+```
 
 The `iter_corpus` is the corpus generated at previous step but will be updated upon every TM step. I will kick out some stopwords after each TM step until I can see some evident topics.
 
@@ -162,6 +161,7 @@ The `iter_corpus` is the corpus generated at previous step but will be updated u
  (9,
   '0.007*"woman" + 0.006*"obama" + 0.006*"state" + 0.005*"govern" + 0.005*"peopl" + 0.005*"public" + 0.005*"american" + 0.005*"clinton" + 0.004*"year" + 0.004*"polici"')]
 ```
+
 Super! We can see some cool topics like number 2. It's easy to identify the topic as Israel-Palestine conflict issues. Topic number 8 looks cool as well.
 
 ## Credits

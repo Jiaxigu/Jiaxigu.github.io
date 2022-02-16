@@ -14,7 +14,7 @@ Since [Git 2.23](https://www.infoq.com/news/2019/08/git-2-23-switch-restore/), `
 
 Let's take a look at the synopsis of `git checkout`.
 
-{% highlight shell %}
+```shell
 NAME
    git-checkout - Switch branches or restore working tree files
 
@@ -26,7 +26,7 @@ SYNOPSIS
    git checkout [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] [--] <pathspec>...
    git checkout [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] --pathspec-from-file=<file> [--pathspec-file-nul]
    git checkout (-p|--patch) [<tree-ish>] [--] [<pathspec>...]
-{% endhighlight %}
+```
 
 `git checkout` does two very different things, and accepts very different forms of parameters when doing them. It creates confusions, dysfunctions, and frustrations. To address this problem, the two main functionalities of `git checkout` is now splitted into two: `git switch` and `git restore`. `git checkout` will be, on the other hand, put to euthanasia in the foreseeable future.
 

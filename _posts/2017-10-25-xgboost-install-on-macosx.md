@@ -10,7 +10,7 @@ Installing xgboost and LightGBM on Mac OSX can be tedious and horrifying for som
 
 Let's start with xgboost, which is the trickier one. Run the following command:
 
-```
+```shell
 brew reinstall gcc --without-multilib
 ```
 
@@ -20,7 +20,7 @@ After 30-60 mins you will have the latest version of gcc installed.
 
 First, run the command:
 
-```
+```shell
 gcc -v
 ```
 
@@ -34,7 +34,7 @@ We need to change the default C compiler from **clang** to **gcc** now.
 
 To check the installed **gcc** version, run the following command:
 
-```
+```shell
 ls /usr/local/bin/*
 ```
 
@@ -47,13 +47,13 @@ Throughout the huge list you will find directories like:
 
 Remember it for future use. Now run the following command:
 
-```
+```shell
 sudo vi ~/.bash_profile
 ```
 
 And add the following lines to the sourcing file:
 
-```
+```shell
 alias gcc='gcc-7'
 alias cc='gcc-7'
 alias g++='g++-7'
@@ -78,7 +78,7 @@ If it exists, skip this part. If not, you should install the HPC library MPI ins
 
 [Download here](http://www.open-mpi.org/software/ompi/v1.8/downloads/openmpi-1.8.tar.gz) or check [MPI Official website](http://www.open-mpi.org/software/ompi/v1.8/) for the latest version and download the `.tar.gz` file. Run the following commands step by step:
 
-```
+```shell
 tar zxvf openmpi-1.8.tar
 cd openmpi-1.8
 ./configure --prefix=/usr/local  
@@ -92,7 +92,7 @@ If you can see the abovementioned directory, then we are fine with MPI.
 
 Clone xgboost from Github repo and try to compile:
 
-```
+```shell
 git clone --recursive https://github.com/dmlc/xgboost
 cd xgboost
 cp make/config.mk ./config.mk
@@ -109,13 +109,13 @@ If you just had success with compiling, skip this part.
 
 `errorunsupported option '-fopenmp'` could still happen in rare cases even if you did switch from **clang** to **gcc**. You need to edit the `Makefile`:
 
-```
+```shell
 vi Makefile
 ```
 
 Look for the following lines:
 
-```
+```shell
 # linux defaults
 ifndef CC
 export CC = gcc
@@ -126,7 +126,7 @@ export CXX = g++
 
 Change them to:
 
-```
+```shell
 # linux defaults
 ifndef CC
 export CC = /usr/local/bin/gcc-7
@@ -137,7 +137,7 @@ export CXX = /usr/local/bin/g++-7
 
 The directories should correspond to the gcc version that you have just installed. Do the same with `make/config.mk` and try to find the following lines:
 
-```
+```shell
 # choice of compiler, by default use system preference.
 # export CC = gcc
 # export CXX = g++
@@ -146,7 +146,7 @@ The directories should correspond to the gcc version that you have just installe
 
 Change them to (be sure to uncomment them!!!):
 
-```
+```shell
 # choice of compiler, by default use system preference.
 export CC = /usr/local/bin/gcc-7
 export CXX = /usr/local/bin/g++-7
@@ -159,19 +159,19 @@ This should fix the compiler bug.
 
 I don't understand why this error pops up but the solution is:
 
-```
+```shell
 vi Makefile
 ```
 
 Search for the following line:
 
-```
+```shell
 export LDFLAGS= -pthread -lm $(ADD_LDFLAGS) $(DMLC_LDFLAGS) $(PLUGIN_LDFLAGS)
 ```
 
 Now add a link before it:
 
-```
+```shell
 export LDFLAGS= -pthread -lm -mmacosx-version-min=10.9
 ```
 
@@ -180,23 +180,25 @@ Quit with `:wq`, clean up with `make clean`, then do `make -j4`. No errors shoul
 ## Install Python library
 
 To run xgboost with Python, you need to install the library:
-```
+
+```shell
 cd python-package
 sudo python setup.py install
 ```
+
 Try `import xgboost` in Python notebook and it should be fine.
 
 ## Install LightGBM
 
 After all what we have done for xgboost it's effortless now to work on LightGBM. The only thing we need to prepare is **cmake**.
 
-```
+```shell
 brew install cmake
 ```
 
 The following steps are pretty much generic.
 
-```
+```shell
 git clone --recursive https://github.com/Microsoft/LightGBM
 cd LightGBM
 export CXX=g++-7 CC=gcc-7
@@ -208,7 +210,7 @@ make -j4
 
 LightGBM is available through `pip` for python:
 
-```
+```shell
 pip install --no-binary :all: lightgbm
 ```
 

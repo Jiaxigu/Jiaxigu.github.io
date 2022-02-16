@@ -16,9 +16,7 @@ In this work we conducted stylometry analysis and topic modeling on 22 reports f
 
 The isolated report by Giustinian was indeed different from the others; it was confirmed by my Italian teammates to be written with a mixture of Italian vernacular and Latin.
 
-
 ## Topic Modeling
-
 
 ### Tools
 
@@ -37,7 +35,6 @@ Which could be useful in future cases. With the inaugural stopwords, we ran topi
 As we can see above (well, if you understand Italian), for example, Topic 5 are filled with meaningless words. My teammates then put them to the stopwords list, and ran the TM model in an iterative approach. In the first iterations, the generated topics were rather miserable. It took them 30-some iterations to reach a extensive list of 500 Italian words, including pronouns, conjugatives, and some strangely stylished words.
 
 ### Topic trend over time
-
 
 The first analysis we did was the trend of topics. We ran the model on the whole dataset for another time and generated 30 topics. Then we divided the reports into five chunks according to the time they were written. We can see significant shift over time on specific topics (i.e. Topic 9 and 20).
 
@@ -66,6 +63,5 @@ We could detect a couple of shortcomings in the output networks, namely the larg
 ## Credits
 
 This work is part of my EPFL DH101 Project. The project is collaborated with my teammates Stafano, Francesco and Jiacheng. My Italian friends did most of the job in the analysis part since I speak just a *poco* Italian.
-
 
 You can find our [full report here](http://veniceatlas.epfl.ch/topic-modeling-of-ambassadors-relations-from-england-final-report/).
