@@ -25,7 +25,7 @@ Following are the steps of `Quickselect` to find the k-th largest or smallest el
 
 ## Sample code
 
-{% highlight python %}
+```python
 import random
 
 def quickselect(a, k):
@@ -67,15 +67,13 @@ def partition(a):
       else:
        left.append(a[i])
   return (left, pivot, right)
-{% endhighlight %}
+```
 
 ## Improvements
 
 As mentioned above, the performance of `quicksort` is good in average but sensitive to the chosen pivot. the worst case time complexity of `Quickselect` is `O(n^2)`. It leaves room for caveat in a robust system. However, with some techniques, the worst case time complexity can be improved to `O(n)`. Refer to [median of medians](https://en.wikipedia.org/wiki/Median_of_medians), [Introselect](https://en.wikipedia.org/wiki/Introselect) for more information.
 
-
 ## References
 
 - [Introduction to quickselect](https://www.jianshu.com/p/52f90fe2b141)
 - [Implementation of quickselect](https://github.com/azabet/Python/blob/master/QuickSelect.py)
-

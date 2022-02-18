@@ -10,30 +10,30 @@ tags: Programming
 
 `OrderedDict` serves under the circumstances that we want to keep the order of keys being added to the dictionary.
 
-{% highlight python %}
+```python
 from collections import OrderedDict
 items = (('apple', 2), ('pear', 1), ('orange', 3))
 od = OrderedDict(items)
 d = dict(items)
-{% endhighlight %}
+```
 
 When we iterate over the dictionary, `OrderedDict` keeps the order while the normal dictionary doesn't.
 
-{% highlight python %}
+```python
 od.items()
 Out[]: odict_items([('apple', 2), ('pear', 1), ('orange', 3)])
 d.items()
 Out[]: dict_items([('orange', 3), ('pear', 1), ('apple', 2)])
-{% endhighlight %}
+```
 
 Or we can make a sorted dictionary with `OrderedDict`:
 
-{% highlight python %}
+```python
 # sorted by key
 sd = OrderedDict(sorted(items, key=lambda t: t[0]))
 sd.items()
 Out[]: odict_items([('apple', 2), ('orange', 3), ('pear', 1)])
-{% endhighlight %}
+```
 
 ## DefaultDict
 
@@ -41,7 +41,7 @@ A non-trivial problem with dictionary in python is that when we query an item wi
 
 With `DefaultDict`, we can assign a default factory method so we get default value when querying a non-existant key.
 
-{% highlight python %}
+```python
 # make a defaultdict
 from collections import defaultdict
 items = (('apple', 2), ('pear', 1), ('orange', 3))
@@ -54,31 +54,31 @@ for k, v in items:
 # query a non-existant key
 dd['mango']
 Out[]: 0
-{% endhighlight %}
+```
 
 There's a lot of works that `DefaultDict` could do.
 
 Store key-value pairs in lists:
 
-{% highlight python %}
+```python
 items = [('GER', 'Bayern'), ('ENG', 'Man City'), ('GER', 'BVB'), ('ESP', 'Barcelona'), ('ENG', 'Liverpool')]
 d = defaultdict(list)
 for k, v in items:
     d[k].append(v)
 d.items()
 Out[]: dict_items([('GER', ['Bayern', 'BVB']), ('ESP', ['Barcelona']), ('ENG', ['Man City', 'Liverpool'])])
-{% endhighlight %}
+```
 
 Counting:
 
-{% highlight python %}
+```python
 item = 'abgegangen'
 d = defaultdict(int)
 for k in item:
     d[k] += 1
 d.items()
 Out[]: dict_items([('a', 2), ('e', 2), ('b', 1), ('n', 2), ('g', 3)])
-{% endhighlight %}
+```
 
 ## More with collections module ...
 

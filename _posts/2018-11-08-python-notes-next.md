@@ -8,7 +8,7 @@ It feels really cool to eventually kick off my career! Here I want to discuss tw
 
 ## The sliding window function with deque()
 
-{% highlight python %}
+```python
 from collections import deque
 
 def sliding_window(seq, W):
@@ -20,7 +20,7 @@ def sliding_window(seq, W):
   for e in it:
     window.append(e)
     yield tuple(window)
-{% endhighlight %}
+```
 
 This function provides a generator with `yield` function. The generator returns a tuple of elements in the window in each iteration.
 
@@ -35,7 +35,7 @@ Several notes should be kept for this function:
 
 `islice()` enables picking up specific elements from the iterable.
 
-{% highlight python %}
+```python
 from itertools import islice
 # get first k items
 it = iter('abracagabra')
@@ -45,7 +45,7 @@ list(islice(it, 3))
 it = iter('abracagabra')
 next(islice(it, 3, 3))
 >>> Out[]: 'a'
-{% endhighlight %}
+```
 
 `islice()` could be useful in the round-robin scheduling. Another post will be dedicated to the algorithm.
 

@@ -12,12 +12,12 @@ An important concept in Groovy is `Closure`. While being important, it's a compl
 
 As the title goes, the method pointer operator `.&` allows you to store a reference to a method in a variable, in order to call it later:
 
-{% highlight groovy %}
+```groovy
 def str = 'example of method reference'
 def fun = str.&toUpperCase
 def upper = fun()
 assert upper == str.toUpperCase()
-{% endhighlight %}
+```
 
 The method pointer has the type `Closure` so it can be used wherever a `Closure` could be used. 
 
@@ -26,7 +26,7 @@ The method pointer has the type `Closure` so it can be used wherever a `Closure`
 
 [Strategy Pattern](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm) can make good use of the method pointer converting an existing method.
 
-{% highlight groovy %}
+```groovy
 def transform(List elements, Closure action) {
     def result = []
     elements.each {
@@ -42,21 +42,19 @@ def list = [
     new Person(name: 'Bob',   age: 42),
     new Person(name: 'Julia', age: 35)]
 assert transform(list, action) == ['Bob is 42', 'Julia is 35']
-{% endhighlight %}
-
+```
 
 ## Overloading
 
 Arguments are resolved at runtime so overloading is possible.
 
-{% highlight groovy %}
+```groovy
 def doSomething(String str) { str.toUpperCase() }
 def doSomething(Integer x) { 2*x }
 def reference = this.&doSomething
 assert reference('foo') == 'FOO'
 assert reference(123)   == 246
-{% endhighlight %}
-
+```
 
 ## References
 

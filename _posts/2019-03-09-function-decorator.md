@@ -18,7 +18,7 @@ However, some are often used in the *fancier way* -- namely [`@property`](https:
 
 Into the world of user-defined decorators, we need to understand first the most substantial utility of this syntactic sugar: **to wrap a function and modify (usually enhance) its behavior.** A snippet of a simple decorator is as follows.
 
-{% highlight python %}
+```python
 """define decorator"""
 def p_decorate(f):
   def wrapper(name):
@@ -30,13 +30,13 @@ def get_victor(name):
   return "the victor is {0}".format(name)
 # print(get_victor("Me"))
 # output - <p>the victor is Me</p>
-{% endhighlight %}
+```
 
 ## Decorator with arguments
 
 There is room for better extensibility with the decorators. First, it's possible to pass arguments to them. 
 
-{% highlight python %}
+```python
 """define decorator"""
 def tag(sign):
   def tag_decorate(f):
@@ -50,13 +50,13 @@ def get_victor(name):
   return "the victor is {0}".format(name)
 # print(get_victor("Me"))
 # output - <b>the victor is Me</b>
-{% endhighlight %}
+```
 
 ## Decorator for class methods
 
 In a class, methods are expected to reference the current object as their first parameter. It brings confusion when designing a decorator for functions and class methods alike. The solution is to build the wrapper function so that it accepts arbitrary number of parameters.
 
-{% highlight python %}
+```python
 """define decorator"""
 def p_decorate(f):
   def wrapper(*args, **kwargs):
@@ -72,20 +72,20 @@ class Person(object):
     return self.name + " " + self.family
 # Person().get_fullname()
 # output - <p>John Doe</p>
-{% endhighlight %}
+```
 
 ## Signature overloading
 
 Decorators will overload the name, module and docstring of the original function:
 
-{% highlight python %}
+```python
 print(get_victor.__name__)
 # Outputs wrapper
-{% endhighlight %}
+```
 
 We can use [functools.wraps](https://docs.python.org/2/library/functools.html#functools.wraps) to reset these signatures to the original state.
 
-{% highlight python %}
+```python
 from functools import wraps
 """define decorator"""
 def tag(sign):
@@ -103,7 +103,7 @@ def get_victor(name):
 # print(get_victor.__name__) # get_victor
 # print(get_victor.__doc__) # return the name of the victor
 # print(get_victor.__module__) # __main__
-{% endhighlight %}
+```
 
 ## References
 

@@ -11,18 +11,18 @@ Since Python 3.6, a new feature called _formatted string literals_ or _f-strings
 Here is a simple example of _f-strings_:
 
 ```python
-name = "Bryan"
-weekday = "Wednesday"
-normal_jobs = 10
-f'Hello, {name}! Happy {weekday}! Today your have {2 * normal_jobs} to do, twice as many in a normal day!'
+from datetime import datetime
+name = 'Jiaxi'
+start = datetime(2018, 10, 29)
+f'Hello {name}, you have spent {(datetime.now() - start).days} days at Alibaba!'
 >>> 
 ```
 
 In comparison, the old `str.format` is less readable.
 
 ```python
-'Hello, {}! Happy {}! Today your have {} to do, twice as many in a normal day!'.format(
-	name, weekday, 2 * normal_jobs
+'Hello, {}! you have spent {} days at Alibaba!'.format(
+	name, (datetime.now() - start).days
 )
 ```
 
@@ -30,8 +30,8 @@ There is another way to format strings, called _template strings_, that could co
 
 ```python
 from string import Template
-t = Template('Hello, $name! Happy $weekday! Today your have $jobs to do, twice as many in a normal day!')
-t.substitute(name=name, weekday=weekday, jobs=2*normal_jobs)
+t = Template('Hello, $name! you have spent $days days at Alibaba!')
+t.substitute(name=name, days=(datetime.now() - start).days)
 ```
 
 This method works well ingesting user-generated tokens and strings, preventing security issues.

@@ -13,7 +13,7 @@ The `multiprocessing.dummy` module is a great tool to manage multithread tasks i
 
 With `multiprocessing.dummy` we can create a thread pool. For example we can build a multithread web crawler:
 
-{% highlight python %}
+```python
 from multiprocessing.dummy import Pool as ThreadPool
 
 urls = [
@@ -35,14 +35,13 @@ result = pool.map(fun, urls)
 # manage the threads post mortem
 pool.close()
 pool.join()
-{% endhighlight %}
-
+```
 
 ## Sleepsort
 
 Sleepsort is a **joke** sorting algorithm that [gained popularity on the internet.](https://www.quora.com/What-is-sleep-sort). We can implement the algoirithm with `multiprocessing.dummy` module.
 
-{% highlight python %}
+```python
 from multiprocessing.dummy import Pool as ThreadPool
 from time import sleep
 
@@ -62,13 +61,13 @@ def sleepsort(array):
     pool.close()
     pool.join()
     return sorted_list
-{% endhighlight %}
+```
 
 ## Accuracy
 
 The algorithm relies heavily on the machine itself. Let's see if it **always** works properly.
 
-{% highlight python %}
+```python
 attempts = 100
 inacc = 0
 
@@ -78,13 +77,13 @@ for i in range(attempts):
         inacc += 1
 
 print('Sleepsort is inaccurate {} times out of {} attempts.'.format(inacc, attempts))
-{% endhighlight %}
+```
 
 And unfortunately...
 
-{% highlight text %}
+```
 Out[ ]: Sleepsort is inaccurate 7 times out of 100 attempts.
-{% endhighlight %}
+```
 
 Let's make some plots to see how accuracy shifts with array length and sleep intervals.
 
@@ -104,4 +103,3 @@ Surprisingly, the order of the given array has trivial impact on accuracy. It im
 
 - [On sleepsort and other spooky sorting algorithms](https://zhuanlan.zhihu.com/p/20644113)
 - [On multiprocessing and multithreading](https://mozillazg.github.io/2014/01/python-use-multiprocessing-dummy-run-theading-task.html)
-

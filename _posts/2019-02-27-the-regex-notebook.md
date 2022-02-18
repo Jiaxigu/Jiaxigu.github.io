@@ -26,10 +26,6 @@ Use `r` in the string definition to avoid backslash plague. Avoid excessive use 
 | `"\\\\section"` | `r"\\section"` | 
 | `"\\w+\\s+\\1"` | `r"\w+\s+\1"` |
 
-## There will be more to come...
-
-blahblahblah...
-
 ## Reference
 
 [Official HOWTO](https://docs.python.org/3.3/howto/regex.html)

@@ -10,28 +10,28 @@ Recently I'm attacking the world of JavaScript - a treasure for the front-end de
 
 I explained [here](https://jiaxigu.github.io/2017-11-27/ternary-operator-python) how to do ternary operator in Python but things get more complicated in JavaScript. In the latest ES6 coding standards, JavaScript is much more simplified than its previous versions. Here is an example of ternary conditional operator:
 
-{% highlight javascript %}
+```javascript
 var price = 25;
 var isExpensive = price > 20 ? true : false;
 console.log(isExpensive) // >>> true
-{% endhighlight %}
+```
 
 It replaces:
 
-{% highlight javascript %}
+```javascript
 var price = 25;
 var isExpensive;
 if (price > 20) {
-  isExpensive = true;	
+  isExpensive = true; 
 } else {
   isExpensive = false;
 }
 console.log(isExpensive) // >>> true
-{% endhighlight %}
+```
 
 For multiple ternary operator, the coding format looks like:
 
-{% highlight javascript %}
+```javascript
 var price = 25;
 var origin = 'sweden';
 var car = 
@@ -43,23 +43,23 @@ var car =
         ? 'volvo'
         : 'bmw'
 console.log(car) // >>> 'volvo'
-{% endhighlight %}
+```
 
 ## Const function
 
 This is a new feature in ES5 and sexy af:
 
-{% highlight javascript %}
+```javascript
 const helloWorld = () => 'Hello World!';
-{% endhighlight %}
+```
 
 The const function ensures **simplicity** and **immutability**. This line of code replaces:
 
-{% highlight javascript %}
+```javascript
 function helloWorld() {
   return 'Hello World!';
 }
-{% endhighlight %}
+```
 
 There are also good reasons to keep using the old way to define functions. Temporal dead zone(TDZ) could be an issue, readability as well.
 
