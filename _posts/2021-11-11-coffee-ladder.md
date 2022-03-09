@@ -4,7 +4,7 @@ title: Rate the Drip - A New Project
 tags: Coffee
 ---
 
-I have been consuming drip coffee bags regularly for two years and I would like to rank them, occasionally. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
+I have been consuming pour over coffee (from both roasted beans and drip bags) regularly for two years and now I would like to rank them. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
 
 There are two types of criteria: descriptive and evaluative.
 
@@ -19,9 +19,13 @@ On the contrary, the evaluative criteria shows how much credit I give to each as
 - Aftertaste (30%): well, the aftertaste.
 - Aroma (20%): the smell before taking the first sip.
 
-## The Ladder
+## The Ladder: Drip Coffee Bags
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-coffee-ladder.png)
+
+## The Ladder: Roasted Beans
+
+TBA
 
 ## Series Reviews
 
