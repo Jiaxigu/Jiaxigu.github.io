@@ -15,9 +15,10 @@ The descriptive criteria don't judge if a coffee is good or bad, they describe t
 
 On the contrary, the evaluative criteria shows how much credit I give to each aspect of a coffee. 
 
-- Flavor (40%): Are the flavor characteristics evident, pleasant and special? 
+- Flavor (30%): Are the flavor characteristics evident, pleasant and special? 
 - Aftertaste (30%): Is the aftertaste durable and consistent over time? Does it have a pleasant twist?
-- Texture (30%): Body, balance, aroma and other factors that contribute to the experience.
+- Texture (30%): Body, balance, clean cup and other factors that contribute to the oral experience.
+- Aroma (10%): The nasal experience.
 
 ## The Ladder
 
