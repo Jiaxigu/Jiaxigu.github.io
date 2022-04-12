@@ -4,50 +4,21 @@ title: Rate the Drip - A New Project
 tags: Coffee
 ---
 
-I have been consuming pour over coffee (from both roasted beans and drip bags) regularly for two years and now I would like to rank them. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
+I have been consuming pour over coffee (from both roasted beans and drip bags) regularly for two years and now I would like to rate them. Drinking coffee is a personal experience, so I did some research and made a try to put everything into a numerical scale.
 
 There are two types of criteria: descriptive and evaluative.
 
 The descriptive criteria don't judge if a coffee is good or bad, they describe the coffee's traits or characteristics. 
 
 - Roast level (which implies acidity): light, medium, dark
-- Texture: One or multiple comparable tastes to define the coffee's identity
+- Identity: One or multiple comparable tastes to define the coffee's main identity
 
 On the contrary, the evaluative criteria shows how much credit I give to each aspect of a coffee. 
 
-- Flavor (50%): the taste when the coffee is in the mouth. 
-- Aftertaste (30%): well, the aftertaste.
-- Aroma (20%): the smell before taking the first sip.
+- Flavor (40%): Are the flavor characteristics evident, pleasant and special? 
+- Aftertaste (30%): Is the aftertaste durable and consistent over time? Does it have a pleasant twist?
+- Texture (30%): Body, balance, aroma and other factors that contribute to the experience.
 
-## The Ladder: Drip Coffee Bags
-
-![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2021-11-11-coffee-ladder.png)
-
-## The Ladder: Roasted Beans
+## The Ladder
 
 TBA
-
-## Series Reviews
-
-- [Sinloy](https://jiaxigu.github.io/2021/11/11/rate-drip-1-sinloy.html)
-- [Fisher Light](https://jiaxigu.github.io/2021/12/21/rate-drip-2-fisher-light.html)
-
-## Uncategorized Reviews
-
-- **Illy Intenso Bold Roast: Dark Roast, Caramel**
-  - **Flavor: 3.5**. Strong bitter flavor. The heavy body is unique and enjoyable.
-  - **Aftertaste: 3.4**. Smoky, nutty aftertaste that lasts.
-  - **Aroma: 4.0**. The caramel smell checks out with its flavor.
-- **AGF Blendy Special Blend: Dark Roast, Syrup**
-  - **Flavor: 3.3**. Mild bitter flavor with sparkling sweet. Not a fan of this setup but I can understand why.
-  - **Aftertaste: 2.8**. Artificial sweet aftertaste without variety.
-  - **Aroma: 3.5**. Vanilla and syrup.
-- **Peet's Signature Blend: Dark Roast, Chocolate**
-  - **Flavor: 3.1. A weird dark roast. Smells sweet but acidity gradually takes over.
-  - **Aftertaste: 2.8. Starts with dark chocolate, then sourness loses control.
-  - **Aroma: 4.0**. Chocolate and caramel. 
-- **Fisher Costa Rica Tarrazu Caturra Miel: Medium Roast, Honey and Almond**
-  - **Flavor: 3.6**. Smooth touch but not really balanced. The acidity is a bit too catchy.
-  - **Aftertaste: 4.0**. Mild acidity ends up with a pleasant note of honey.
-  - **Aroma: 3.0**. Nutty aroma.
-
