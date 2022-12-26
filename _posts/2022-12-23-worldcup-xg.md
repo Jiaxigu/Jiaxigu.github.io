@@ -4,7 +4,7 @@ title: Best xG Maps from FWC 2022
 tags: Data
 ---
 
-The dust has settled at FIFA World Cup Qatar 2022. This tournament saw Messi crowned, Mbappe peaked, tenacity triumphed, tiki-taka suffocated.
+The dust has settled at FIFA World Cup Qatar 2022. This tournament is a monumental one. Messi is immortal. Mbappe is omnipotent. Tenacity triumphed over tiki-taka. Third world countries closed the gap.
 
 ## Disclaimer
 
@@ -12,17 +12,17 @@ I implemented the bot and drew all xG maps myself, but the idea and design comes
 
 ## Matches
 
-Let's start with upsets. The biggest upset was _Argentina v. Saudi_ for sure, but this match is a blessing in disguise for Argentina.
+Let's start with upsets. The biggest upset was _Argentina v. Saudi_ for sure, but this match proves to be a blessing in disguise for Argentina.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022-12-23-wcxg-arg-sau.png){: .center-image}
 
-The other upsets were less extraterrestrial given the context of cup format, where caution and tenacity are the most valuable assets. Matches like _Germany v. Japan_, _Croatia v. Brazil_ are evidences of that verdict.
+Given the context of cup format, upsets are more likely to happen than in the leagues. Determination and prowess in key moments could decide matches. _Germany v. Japan_, _Croatia v. Brazil_ are evidences of that verdict.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022-12-23-wcxg-ger-jpn.png){: .center-image}
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022-12-23-wcxg-cro-bra.png){: .center-image}
 
-Both Morocco wins in the knockout phase are more due to great tenacity and strict tactics. They are not far behind in xG.
+Both Morocco wins in the knockout phase are more due to great tenacity and well composed defense. The Moors are not far behind in xG.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022-12-23-wcxg-mor-esp.png){: .center-image}
 
@@ -44,4 +44,32 @@ And finally let's wrap up this section with probably the most entertaining final
 
 From teams' perspective, I have selected 9 teams' aggregated xG map to reflect their journey respectively.
 
+Belgium and Germany showed the how things could go wrong without a top striker.
 
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Belgium_xG.png){: .center-image}
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Germany_xG.png){: .center-image}
+
+Japan was really impressive. They had the upper hand not only in scoreline but also in xG against Spain, Germany and Croatia combined.
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Japan_xG.png){: .center-image}
+
+Brazil seemed invincible until thwarted by Croatia. And the stats could testify for it. Same with England, but to a lesser extent. These two teams had the winning potential, but there could only be two finalists and one winner.
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Brazil_xG.png){: .center-image}
+
+Two semifinalists both pulled off miracles.
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Croatia_first5_xG.png){: .center-image}
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Morocco_first5_xG.png){: .center-image}
+
+Finalists displayed their dominance. Surprisingly, Argentina had better defensive performance statistically, but was significantly less lucky.
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_France_xG.png){: .center-image}
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Argentina_xG.png){: .center-image}
+
+## Summary
+
+And that's it to the last World Cup with 32 teams. Money is victorious once again and the next World Cup is destined to have a huge decline in match quality. The only thing I can do now is to pray that my country could make it.
