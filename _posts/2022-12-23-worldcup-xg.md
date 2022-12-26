@@ -50,7 +50,7 @@ Belgium and Germany showed the how things could go wrong without a top striker.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Germany_xG.png){: .center-image}
 
-Japan was really impressive. They had the upper hand not only in scoreline but also in xG against Spain, Germany and Croatia combined.
+Japan was really impressive. They had the upper hand not only in scoreline but also in xG against Spain, Germany and Croatia combined.3
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Japan_xG.png){: .center-image}
 
@@ -58,13 +58,15 @@ Brazil seemed invincible until thwarted by Croatia. And the stats could testify 
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Brazil_xG.png){: .center-image}
 
-Two semifinalists both pulled off miracles.
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_England_xG.png){: .center-image}
+
+Two semifinalists didn't have too much control on the field. They both pulled off some miracles.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Croatia_first5_xG.png){: .center-image}
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Morocco_first5_xG.png){: .center-image}
 
-Finalists displayed their dominance. Surprisingly, Argentina had better defensive performance statistically, but was significantly less lucky.
+Both finalists displayed dominance. Contrary to the general perception, Argentina had better defensive performance statistically, but was significantly less lucky.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_France_xG.png){: .center-image}
 
@@ -72,4 +74,4 @@ Finalists displayed their dominance. Surprisingly, Argentina had better defensiv
 
 ## Summary
 
-And that's it to the last World Cup with 32 teams. Money is victorious once again and the next World Cup is destined to have a huge decline in match quality. The only thing I can do now is to pray that my country could make it.
+And that's it to the last ever 32-team World Cup. _Cash is king_ once again and the next World Cup is destined to suffer a huge decline in match quality. The only thing I can do now is to pray that my country could make it, so there could be at least something to cheer for.
