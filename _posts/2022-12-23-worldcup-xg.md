@@ -50,11 +50,11 @@ Belgium and Germany showed the how things could go wrong without a top striker.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Germany_xG.png){: .center-image}
 
-Japan was really impressive. They had the upper hand not only in scoreline but also in xG against Spain, Germany and Croatia combined.3
+Japan was really impressive. They had the upper hand not only in scoreline but also in xG against Spain, Germany and Croatia combined.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Japan_xG.png){: .center-image}
 
-Brazil seemed invincible until thwarted by Croatia. And the stats could testify for it. Same with England, but to a lesser extent. These two teams had the winning potential, but there could only be two finalists and one winner.
+Onto the quarterfinalists. Brazil seemed invincible until thwarted by Croatia. And the stats could testify for it. It's the same situation with England, only to a lesser extent. These two teams had the winning potential, but there could only be two finalists and one winner.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2022_FWC_Brazil_xG.png){: .center-image}
 
