@@ -24,3 +24,11 @@ MS in Computational Science and Engineering
 
 **Zhejiang University \| 2011 - 2015**<br>
 BS in Energy Engineering
+
+### Have-been-there Status
+
+Last update: 2024.2
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/about-have-been-there-cn.png)
+
+![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/about-have-been-there-global.png)
