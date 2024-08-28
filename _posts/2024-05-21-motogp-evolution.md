@@ -28,19 +28,19 @@ Now we move on to riders who made a name early on. Vinales and Acosta arrive the
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2024-05-18-motogp-promotion-pedro-acosta-sanchez.png){: .center-image}
 
-Zarco is a late-bloomer on the other hand. No one could find a full-time seat at MotoGP for the first time older than 27, in fact.
+Zarco is the sole late-bloomer on the grid now. Riders older than 27y should not find a full-time seat at MotoGP if never managed do so before.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2024-05-18-motogp-promotion-johann-zarco.png){: .center-image}
 
 
 ## Newcomers
 
-Last I want to predict the prospect of 4 young riders currently in the lower series.
+Given the info from the progressive chart, I want to predict the prospect of 4 young riders currently in the lower series.
 
-- David Alonso (18y): full-time MotoGP by 21y (or year 2027)
-- Izan Guevara (20y): 30% chance to make it
-- Ai Ogura (23y): full-time MotoGP by 25y (or year 2026)*
-- Aron Canet (25y): 20% chance to make it
+- David Alonso (18y): full-time seat by 21y/2027.
+- Izan Guevara (20y): wildcard; 30% chance to have a full-time seat.
+- Ai Ogura (23y): full-time seat by 25y/2026. --*already announced for 2025 season*
+- Aron Canet (25y): wildcard; 20% chance to have a full-time seat.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2024-05-18-motogp-promotion-david-alonso.png){: .center-image}
 
@@ -50,8 +50,4 @@ Last I want to predict the prospect of 4 young riders currently in the lower ser
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2024-05-18-motogp-promotion-aron-canet.png){: .center-image}
 
-## Notes
-
-Data as of 2024-05-18.
-
-* Ai Ogura announced for 2025 MotoGP.
+Footnote: data as of 2024-05-18.
