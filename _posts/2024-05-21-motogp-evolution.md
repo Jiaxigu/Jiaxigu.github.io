@@ -38,9 +38,9 @@ Zarco is the sole late-bloomer on the grid now. Riders older than 27y should not
 Given the info from the progressive chart, I want to predict the prospect of 4 young riders currently in the lower series.
 
 - David Alonso (18y): full-time seat by 21y/2027. --*moto2-bound for 2025*
-- Izan Guevara (20y): wildcard; 30% chance to have a full-time seat.
-- Ai Ogura (23y): full-time seat by 25y/2026. --*already announced for 2025 season*
-- Aron Canet (25y): wildcard; 20% chance to have a full-time seat.
+- Izan Guevara (20y): 30% chance to have a full-time seat.
+- Ai Ogura (23y): full-time seat by 25y/2026. --*GP-bound for 2025*
+- Aron Canet (25y): 20% chance to have a full-time seat.
 
 ![](https://jiaxi-github-pages-photohost.oss-cn-beijing.aliyuncs.com/pyreneesalpaca/images/2024-05-18-motogp-promotion-david-alonso.png){: .center-image}
 
