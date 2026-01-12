@@ -4,9 +4,9 @@ title: Best xG Maps from FWC 2022
 tags: Featured
 ---
 
-[点击阅读汉化版](https://jiaxigu.github.io/2022/12/23/worldcup-xg-cn.html)
-
 The dust has settled at FIFA World Cup Qatar 2022. This tournament is a monumental one. Messi is immortal. Mbappe is omnipotent. Tenacity triumphed over tiki-taka. Third world countries closed the gap.
+
+[点击阅读汉化版](https://jiaxigu.github.io/2022/12/23/worldcup-xg-cn.html)
 
 ## Disclaimer
 
