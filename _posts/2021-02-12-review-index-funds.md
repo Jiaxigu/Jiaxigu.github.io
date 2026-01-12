@@ -2,7 +2,7 @@
 layout: post
 title: 笔记《指数基金投资指南》
 hidden: true
-tags: Annotations
+tags: Memo
 categories: Zen
 ---
 

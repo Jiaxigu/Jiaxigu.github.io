@@ -2,7 +2,7 @@
 layout: post
 title: 随记：三张后摇，三阶生活
 hidden: true
-tags: Annotations
+tags: Memo
 categories: Zen
 ---
 

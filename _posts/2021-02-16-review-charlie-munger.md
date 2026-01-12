@@ -2,7 +2,7 @@
 layout: post
 title: 笔记《穷查理宝典》
 hidden: true
-tags: Annotations
+tags: Memo
 categories: Zen
 ---
 
