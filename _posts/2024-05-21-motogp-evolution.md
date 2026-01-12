@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Against the Clock to MotoGP
-tags: Data
+tags: Featured
 ---
 
 The current MotoGP pyramid became what it is now since 2012. Most riders have to conquer Moto3 and Moto2 before embracing the pinnacle of Motocycles.

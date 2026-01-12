@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Stats behind Wordle
-tags: Data
+tags: Featured
 ---
 
 The puzzle game _Wordle_ have been trending for a while and hit headlines more recently when purchased by _New York Times_ for over 1 million USD. In _Wordle_, players need to identify a randomly generated 5-letter word in 6 attempts or less. Players learn hints about the letters and their placements after every attempt: green block means we have the right letter in right place; orange block means the right letter but in wrong place; black block means we get the letter wrong.

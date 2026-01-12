@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visualizing the Best and Worst Finisher
-tags: Data
+tags: Featured
 ---
 
 In recent years, the term [Expected Goals (xG)](https://www.driblab.com/analysis-team/expected-goals-xg-what-it-is-and-how-it-works/) has risen to prominence in football analytics. Being a low scoring game, xG provides with a rather clear insight instead of the score itself. Today I would like to present a related metric called _xG outperformance_ to describe how good a player is at finishing.

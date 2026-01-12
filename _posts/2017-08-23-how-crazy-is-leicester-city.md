@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Crazy is 2015/16 Leicester City?
-tags: Data
+tags: Featured
 ---
 
 The Premier League title for Leicester City in 2015/16 is the most crazy story I have even seen in my life. The point is, HOW crazy are they? Can we measure it?
