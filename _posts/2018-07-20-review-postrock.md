@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 乐评：三张后摇，三阶生活
+title: 随记：三张后摇，三阶生活
 hidden: true
 tags: Review
 categories: Zen
