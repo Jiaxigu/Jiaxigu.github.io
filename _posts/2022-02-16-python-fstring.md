@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Python F-strings
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Since Python 3.6, a new feature called _formatted string literals_ or _f-strings_ has been introduced to the string fomatting arsenal. It boasts better simplicity and readability than the reigning strategy, `str.format`.

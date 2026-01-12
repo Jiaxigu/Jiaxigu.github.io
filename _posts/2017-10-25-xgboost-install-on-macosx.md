@@ -2,6 +2,8 @@
 layout: post
 title: Installing xgboost and LightGBM on Mac OSX
 tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Installing xgboost and LightGBM on Mac OSX can be tedious and horrifying for someone like me who's not familiar with compilers.

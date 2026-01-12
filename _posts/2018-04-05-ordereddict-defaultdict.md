@@ -1,7 +1,9 @@
 ---
 layout: post
 title: OrderedDict and DefaultDict
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 `dict` is a really nice data structure in python but it has limitations. I did some research recently  with the `collections` module in Python and found two niche extentions of `dict`: `OrderedDict` and `DefaultDict`.

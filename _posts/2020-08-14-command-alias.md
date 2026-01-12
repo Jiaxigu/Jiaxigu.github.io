@@ -2,6 +2,8 @@
 layout: post
 title: Command Shortcut for Terminal
 tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Sometimes I come across terminal commands that are handy frequently but take minutes to type in, such as [finding the most used commands](https://jiaxigu.github.io/2019-07-09/most-used-commands):

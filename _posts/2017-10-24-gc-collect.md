@@ -1,7 +1,9 @@
 ---
 layout: post
 title: gc.collect()
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Boosting algorithms, such as LightGBM and XGBoost, are taking over now in Kaggle machine learning competitions and industrial tasks at scale. It's now really simple to perform a machine learning study powered by these advanced algorithms, but it comes with significant memory cost.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Thread Pool and the Best Sorting Algorithm
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 The `multiprocessing.dummy` module is a great tool to manage multithread tasks in python. [It replicates the API of `multiprocessing` but is actually a wrapper around the `threading` module.](https://docs.python.org/2/library/multiprocessing.html#module-multiprocessing.dummy) I would create a chart to sum things up.

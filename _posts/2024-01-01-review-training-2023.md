@@ -2,6 +2,8 @@
 layout: post
 title: Training Review 2023
 tags: Data
+hidden: true
+categories: Archive
 ---
 
 At the second half of 2023 I have gradually forged a stable training schedule. In this post I want to review the six whole months that I can be really proud of with data visualizations.

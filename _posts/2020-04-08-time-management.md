@@ -2,6 +2,8 @@
 layout: post
 title: Scrum + GTD with Trello
 tags: Dev
+hidden: true
+categories: Archive
 ---
 
 I have planned for a while to set up a customized system to achieve the following two things:

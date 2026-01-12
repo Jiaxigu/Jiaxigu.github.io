@@ -2,7 +2,7 @@
 layout: post
 title: 笔记《置身事内》
 hidden: true
-tags: Review
+tags: Annotations
 categories: Zen
 ---
 

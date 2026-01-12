@@ -2,7 +2,7 @@
 layout: post
 title: 笔记《穷查理宝典》
 hidden: true
-tags: Review
+tags: Annotations
 categories: Zen
 ---
 

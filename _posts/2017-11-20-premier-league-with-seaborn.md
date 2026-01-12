@@ -2,6 +2,8 @@
 layout: post
 title: Premier League Power Rankings
 tags: Data
+hidden: true
+categories: Archive
 ---
 
 The Premier League has been the most entertaining football league in the last decade. Darkhorses, derbies, upsets, busts and **at least four** title contenders make it a great show every single season. I continued my research on the European football dataset to check out who comes atop at Premier League in the golden era.

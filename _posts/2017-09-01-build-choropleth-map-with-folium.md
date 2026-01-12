@@ -2,6 +2,8 @@
 layout: post
 title: Building a Choropleth Map with Folium
 tags: Data
+hidden: true
+categories: Archive
 ---
 
 In this work I made a choropleth map with [Folium](https://github.com/python-visualization/folium), a flashy python library for data visualization.

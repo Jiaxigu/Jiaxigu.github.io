@@ -2,7 +2,7 @@
 layout: post
 title: 笔记《精益创业》
 hidden: true
-tags: Review
+tags: Annotations
 categories: Zen
 ---
 

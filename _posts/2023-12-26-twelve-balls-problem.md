@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Twelve Balls Problem
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Recently I caught up with a interesting math problem called [the twelve balls problem](https://puzzling.stackexchange.com/questions/183/twelve-balls-and-a-scale).

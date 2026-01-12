@@ -1,7 +1,9 @@
 ---
 layout: post
 title: deque(), islice() & more
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 It feels really cool to eventually kick off my career! Here I want to discuss two small pieces of code which provides an efficient solution to assembling a [sliding window](https://www.geeksforgeeks.org/window-sliding-technique/) over a sequence. 

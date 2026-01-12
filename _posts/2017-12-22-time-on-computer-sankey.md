@@ -2,6 +2,8 @@
 layout: post
 title: An Average Week on Sankey Diagram
 tags: Data
+hidden: true
+categories: Archive
 ---
 
 Recently I started tracking my time on computer with [rescuetime](https://www.rescuetime.com/). It summarizes and categorizes your working patterns, but as a data-scientist-to-be, there's much more work to do, obviously.

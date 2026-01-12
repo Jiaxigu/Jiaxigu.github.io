@@ -2,6 +2,8 @@
 layout: post
 title: What's my Most Used Commands?
 tags: Dev
+hidden: true
+categories: Archive
 ---
 
 Yesterday I was curious about how often I use certain Linux commands - i.e. `ls`, `grep` and `git` - and I knew all the previous commands have been stored in the `history` file. However, I don't feel like going through the file and do the statistics all by myself.

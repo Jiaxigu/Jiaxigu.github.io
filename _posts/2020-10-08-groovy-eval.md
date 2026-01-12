@@ -1,7 +1,9 @@
 ---
 layout: post
 title: eval() in Groovy
-tags: Programming
+tags: Dev
+hidden: true
+categories: Archive
 ---
 
 As a python fanatic, `eval()` and `literal_eval()` walked straight into my coding life and would never ever leave again. For me, this pair of beauty usually works as interpreter in data pipelines, enabling rule configuration from other systems. The `eval()` function exists in Groovy as well, and it deserves a mini intro.
