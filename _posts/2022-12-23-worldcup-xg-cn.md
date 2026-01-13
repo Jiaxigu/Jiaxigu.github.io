@@ -3,6 +3,8 @@ layout: post
 title: xG图集锦：2022年世界杯
 tags: FeaturedCN
 hidden: true
+link_url: https://jiaxigu.github.io/2022/12/23/worldcup-xg.html
+link_text: EN
 ---
 
 [Click here to read the English version.](https://jiaxigu.github.io/2022/12/23/worldcup-xg.html)

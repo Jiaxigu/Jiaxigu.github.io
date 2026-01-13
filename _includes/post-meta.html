@@ -1,5 +1,9 @@
 <div class="post-meta">
   <span class="post-date">{{ include.post.date | date_to_string }}</span>
+  {% if include.post.link_url and include.post.link_text %}
+    &bull;
+    <a href="{{ include.post.link_url }}" target="_blank" rel="noopener noreferrer">{{ include.post.link_text }}</a>
+  {% endif %}
   <span class="post-categories">
     {% for category in include.post.categories %}
       &bull;
