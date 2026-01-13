@@ -7,9 +7,8 @@ link_url: https://jiaxigu.github.io/2022/12/23/worldcup-xg.html
 link_text: EN
 ---
 
-[Click here to read the English version.](https://jiaxigu.github.io/2022/12/23/worldcup-xg.html)
-
 2022世界杯已经尘埃落定，这届赛事堪称里程碑。梅西终于圆梦。姆巴佩无所不能。意志力比美丽足球更管用。足球界的“第三世界国家”正在迅速缩小差距。
+
 
 ## 声明
 
